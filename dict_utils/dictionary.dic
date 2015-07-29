@@ -1,0 +1,2002 @@
+%
+1	Negate
+2	Posemo
+3	Negemo
+4	Insight
+5	Tentat
+6	Certain
+7	Achiev
+8	Ability
+9	Agentic
+10	Negative Evaluation
+11	Positive evaluation
+12	Research
+13	Standout
+14	Conj
+15	Excl
+16	erc words
+17	track record
+18	proposal
+19	pos achieve
+20	neg achieve
+
+%
+desirable	11
+little novelty	10
+protest	3
+hating	3
+party*	2
+hate	3
+hesita*	3	5
+poorly	10
+high impact scientific journal*	17	11
+exaggerat*	10
+unclear*	5
+skill*	8
+sorry	3
+pride	2	19	7
+strong experience	16	11
+risk	9
+collaborat*	17	12
+thorough*	11
+well-presented	11
+every	6
+creat*	16	19	11	7
+regret*	3
+skills	19	7
+fondly	2
+graced	2
+delight*	11
+unrelated	10
+assurance	9
+stink*	3
+graces	2
+festiv*	2
+consistent	11
+feasibility	18	12
+scream*	3
+ground breaking	16
+ridicul*	3
+fact	6
+beaten	3	20	7
+queenly	19	7
+hazy	5
+hypothetic*	5
+benefic*	2
+ever	6
+likel*	5
+never	1	6
+valu*	11
+elegan*	2
+aren't	1
+paining	3
+shock*	3
+worse*	3
+cogent	11
+suitable	11
+libert*	2
+pioneer*	16	11
+envious	3
+excellen*	16	13
+terrific*	16	2	13
+rofl	2
+bring*	19	7
+destruct*	3
+cogency	11
+total	6
+supporter*	2
+unbeat*	20	7
+popular*	2
+mastermind*	19	7
+thought*	11
+antagoni*	3
+glori*	2
+resent*	3
+until	14
+sorrow*	3
+secur*	2
+cheat*	3
+wars	3
+grief	3
+lol	2
+feeling*	4
+dishearten*	3
+attent*	4
+gorgeous*	2
+must	6
+full detail	11
+variab*	5
+exact*	6
+work	18	12
+great potential	16	11
+surviv*	19	7
+tender*	2
+shook	3
+invariab*	6
+insecur*	3
+presiden*	19	7
+contented*	2
+beaut*	2
+feasible	16	11
+dumb*	3
+exclu*	15
+appreciat*	2	4
+agony	3
+how	14
+amazing	16	13
+attract*	2
+aching	3
+independen*	9
+mess	3
+demanding	10
+supportive*	2
+laugh*	2
+ambigu*	5
+damag*	3
+fault*	3
+wins	2	19	7
+shaki*	3	5
+sweetheart*	2
+winn*	2	19	7
+interrup*	3
+academic*	17	12
+effect*	19	4	7
+awful	3
+hopeless*	3
+helpless*	3
+cutie*	2
+vita	12
+spite*	3
+victor*	19	7
+unforeseen	3
+dump*	3
+striking	16	13
+better	2	19	7
+compelling	11
+represent*	12
+reasonabl*	11
+confidently	2	19	6	7
+versus	15
+then	14
+devot*	2
+flexib*	2
+easie*	2
+potential*	19	7
+present*	12
+workabl*	19	7
+violat*	3
+luck	2	5
+correct*	6
+laboratory	18	12
+struggl*	3
+assault*	3
+lous*	3
+whining	3
+create*	2	19	7
+start*	9
+toleran*	2
+easiness	2
+compete*	9
+unanswered question*	10
+maniac*	3
+admits	4
+mastering	19	7
+sadly	3
+piss*	3
+woe*	3
+slut*	3
+surpris*	2
+encourag*	2
+rank	19	7
+reward*	2	19	7
+clarity	11
+knack	8
+power*	19	7
+broader impact	16	11
+seminar*	17	12
+top	16	19	13	7
+domina*	19	9	3	7
+master	19	7
+easy*	2
+sure*	2	6
+reassur*	2
+blunt*	9
+organiz*	9	19	7
+wisdom	2
+illustrat*	19	7
+somewhat	5
+explained	4
+champ*	2	19	7
+frankly	6
+sarcas*	3
+silly	2
+reject*	3
+punish*	3
+persuasive	11
+loyal*	2
+shy*	3
+distract*	3
+confus*	3	5
+well*	2	11
+seem	4	5
+strength	9	11
+romantic*	2
+synopsis	18	12
+disillusion*	3
+incomplet*	5
+little detail*	10
+blatant*	6
+screw*	3
+though	14
+kind (of)	5
+pessimis*	3
+grins	2
+optimized	11
+well-organized	11
+enlighten*	4
+definitely	2	6
+strong*	19	9	2	11	7
+perceiv*	4
+nast*	3
+queen	19	7
+in depth	11
+eminent	16	13
+tailor*	11
+terror*	3
+deep understanding	16	11
+ruin*	3
+nervous*	3
+ineffect*	3	20	7
+explain	4
+institution	17	12
+negat*	1
+integrate	19	7
+anger*	3
+indepth	11
+inspir*	2	11	4
+attempt*	19	7
+solution*	19	4	7
+disturb*	3
+silli*	2
+selfish*	3
+advisor*	17	12
+altogether	6
+grand challenge*	16	11
+considerate	2
+virtuo*	2
+bad	3
+lesson*	19	4	7
+unique*	16	11
+new*	11
+erroneous	10
+fascinating	16	11
+sicken*	3
+testing	12
+well-established	11
+depends	5
+neurotic*	3
+best	19	2	11	7
+exemplary	16	13
+sorta	5
+unable	20	7
+argu*	3
+hopefully	2	5
+foe*	3
+sorts	5
+decis*	4
+lazy	3	20	7
+forc*	9
+cumersome	10
+however	14
+petty*	3
+fallacious	10
+discover*	12	18	19	4	7
+didactic	11
+planned	19	7
+capacit*	8
+startl*	3
+solved 	4
+excit*	2
+sunshin*	2
+timescale	18	12
+appeared	5
+accepta*	2	4
+vain	3
+doubt*	10	3	5
+unprotected	3
+unsubstantiated	10
+efficac*	11
+little impact	10
+ugl*	3
+originat*	9	19	7
+entertain*	2
+mistak*	3
+confident	2	19	6	7
+unquestion*	6
+basic	10
+precise way	11
+lovely	2
+rather	15
+deeper	11
+reconstruct*	4
+irrita*	3
+worked	19	7
+incompeten*	20	7
+harms	3
+critical aspect*	3
+inadequate*	10
+bother*	3
+homesick*	3
+suppose	5
+mightve	5
+privileg*	2
+faith*	2
+working*	19	7
+less novel	10
+provocative	9
+played	2
+deligh*	2
+cant	1
+factual*	6
+question mark*	10
+if	5	14	15
+alarm*	3
+spectacular	16	13
+clearly	6
+world class	16	13
+harming	3
+freeness	2
+fairly	5
+informative*	4
+expert*	8
+supposing	5
+groundbreaking	16	11	13
+thoughts	4
+avoid*	3
+harmon*	2
+tho	14
+haha*	2
+adequa*	19	7
+just	15
+able	8
+bastard*	3
+thanks	2
+perfect*	2	19	6	7
+facts	6
+unique	16	13
+arbitrar*	5
+beloved	2
+contradic*	3
+save	2
+complex*	4
+mocked	3
+casually	2
+identif*	4
+little experience	10
+transform*	16	11
+pettie*	3
+reevaluat*	4
+giver*	2
+vanity	3
+appearing	5
+interpret*	4
+knowab*	4
+innocen*	2
+thoughtful*	2
+luckless*	3	5
+beneficial	11
+aptitude	8
+ponder*	4
+somehow	5
+palatabl*	2
+warring	3
+shake*	3
+meaning*	4
+negative outcome*	10
+effort*	19	7
+wicked*	3
+ludicrous*	3
+outspoken	9
+bold*	9	2	11
+attack*	3
+accept*	11
+enemie*	3
+reconsider*	4
+sins	3
+losing	3	20	7
+super	2	19	7
+wept	3
+halfass*	5
+accepts	2	4
+exhaust*	3
+plus	14
+commit	6
+sob	3
+lied	3
+talent*	8	2
+low*	3
+intellectual	9
+critical issue*	3
+humiliat*	3
+lies	3
+unaccept*	4
+balanced	11
+clever*	8	2
+nerd*	3
+support	2
+unfocused	10
+fought	3
+editor	17	12
+less experience	10
+ador*	2
+war	3
+brave*	2
+happy	2
+questionable	10
+puzzl*	5
+fume*	3
+magnificent	16	13
+becoming	4
+warred	3
+forever	6
+maddest	3
+thought-through	11
+curio*	4
+kiss*	2
+true	6
+statement*	4
+rape*	3
+approximat*	5
+emotional	3
+temper	3
+jealous*	3
+bashful*	3
+guesses	5
+fury	3
+model*	18	12
+sometime	5	15
+grasp*	4
+heartwarm*	2
+protested	3
+profit*	2
+agreeing	2
+whereas	14
+generally	5
+second-tier 	10
+til	14
+test	12
+pathetic*	3
+prove*	4	6
+felt	4
+magnific*	2
+mediocr*	19	7
+believabl*	11
+fulfill*	19	7
+sufficient*	11
+vicious*	3
+warm*	2
+harass*	3
+undoubt*	6
+crown*	19	7
+serious	3
+high-risk/high-gain	16	11
+gloom*	3
+breadth	11
+liabilit*	3
+remarkable	16	13
+advantag*	2	19	7
+persever*	19	7
+diminish*	10
+troubl*	3
+feasib*	16	11
+enthus*	2	11
+depend	5
+unpleasant	3
+must've	6
+suffered	3
+reliev*	2
+jerk	3
+lead*	9	19	7
+manage*	9
+impolite*	3
+puk*	3
+attractive 	11
+battl*	3
+cool	2
+poor*	10
+impressive	16	11
+solves	19	4	7
+solved	19	7
+amaz*	2
+sucker*	3
+fearing	3
+insignificant	10
+obsolete	10
+valid*	11
+climb*	19	7
+satisf*	2
+optimal*	2
+accomplish*	19	9	11	7
+contemplat*	4
+appear	5
+shares	2
+limited novelty	10
+brillian*	8	2
+shared	2
+guilt*	3
+supporting	2
+target*	11
+aggress*	3
+holistic	11
+witch	3
+hadn't	1
+thinker*	4
+finding*	18	12
+long experience	11
+freak*	3
+stubborn*	3
+studies	18	12
+genuinely	11
+love	2
+insight*	8	4
+problematic	10
+fake	3
+degrad*	3
+peculiar*	3
+kind	2
+method*	18	12
+flunk*	3
+wondering	4	5
+scope	18	12
+defeat*	3	20	7
+sharing	2
+team*	19	7
+dislikes	3
+heartbreak*	3
+apparent	6
+sufferer*	3
+cute*	2
+valued	2
+memor*	4
+wouldnt	1
+positiv*	2	6
+wrong*	3
+adroit*	8
+believes	4
+exaggerated	10
+moodi*	3
+everybod*	6
+values	2
+resign*	3
+believed	4
+angr*	3
+stimulating	11
+probablistic*	5
+journal*	17	12
+unaware*	4
+awesome	2
+revelat*	4
+didn't	1
+fuck	3
+occasional*	5
+incremental	10
+implicit*	6
+rigor*	11
+gentler	2
+benefitt*	2
+amus*	2
+fuming	3
+solemn*	3
+correlat*	4
+harmed	3
+vitas	18	12
+till	14
+optimal	11
+absolute	6
+proficien*	8	19	7
+natural*	8
+may	5
+figur*	4
+aok	2
+craz*	3
+geek*	3
+mad	3
+offens*	3
+grouch*	3
+improving	2	19	7
+repress*	3
+precis*	6
+data	18	12
+envy*	3
+natural	11
+glamour*	2
+whenever	14
+rude*	3
+productiv*	11
+oughtn't	1
+inform	4
+doom*	3
+high risk high gain	16	11
+so	14
+vita*	18	12
+asshole*	3
+wealth*	2
+cruel*	3
+shaky	10	3	5
+mainly	5
+useless* 	3
+accepted	2	4
+thank	2
+determina*	2	19	4	7
+focus*	11
+unacceptabl*	10
+truest	2	6
+experiment*	18	12
+not	1	10	15
+nor	1	14
+wont	1
+apprehens*	3
+journal*	17
+acknowledg*	4
+offer*	19	7
+suspicio*	3	4
+realistic	11
+aware*	4
+far-stretching	10
+mustn't	1	6
+fired	3
+forbid*	3
+embarrass*	3
+challenges	16
+incentive*	2	19	7
+theor*	18	12	5
+superior*	16	2	11
+uhuh	1
+tried	19	7
+advanc*	19	11	7
+seriously	3
+shouldn't	1
+envie*	3
+initiat*	9	19	7
+proven track record	16	11
+disaster*	3
+reckon*	4
+quite	5
+unfriendly	3
+high-gain	16	11
+care	2
+dunno	5
+tension*	3
+think	4
+first	19	7
+strengthened	11
+specif*	11
+brain*	8
+omission	10
+directly	6
+ungrateful*	3
+requir*	19	7
+unproduc*	20	7
+formulat*	19	7
+structured	11
+cutting edge	16	11
+favor*	2
+terrifying	3
+fiery	3
+realization	19	7
+impact*	16	11
+rememb*	4
+sound*	11
+tempers	3
+mostly	5
+proving	4
+accura*	6
+frantic*	3
+limited experience	10
+asham*	3
+h-index	17	12
+and	14
+conjectural	10
+contentious	10
+state-of-the art	16	11
+sad	3
+broad experience	11
+prestigious	16	13
+rational*	9	4
+any	5
+furious*	3
+driv*	9
+ideas	4
+unambigu*	6
+objective	18	12
+wonder	4	5
+damn*	3
+bets	5
+sure	9
+pain	3
+fundamental	6
+knew	4
+creati*	8	2	19	7
+brief*	10
+nice*	2	11
+strength*	2	19	7
+isolat*	3
+considered	4
+dread*	3
+average	10
+in detail	16	11
+strain*	3
+something*	5	15
+efficien*	2	19	7
+typically	5
+honour*	2	19	7
+bitter*	3
+manuscript*	18	12
+detract*	10
+celebrat*	19	7
+resourceful*	19	7
+unlikel*	5
+narrow*	10
+aint	1
+unkind	3
+joke*	2
+inevitab*	6
+loser*	3	20	7
+appropriat*	11
+tears	3
+believing	4
+ambiti*	9	19	7
+ranking	19	7
+vary	5
+truly	2	6
+simplistic	10
+unimportant	3
+cannot	1
+nearly	5
+progress	19	7
+inappropriate*	10
+closure	19	4	7
+treasur*	2
+analy*	8	9	4
+outrag*	3
+uncover	19	7
+neat*	2
+likeab*	2
+definitive*	6
+award*	2	19	7
+hurt*	3
+hasn't	1
+international network*	17	12
+amor*	2
+hugg*	2
+concentrat*	4
+blam*	3
+sketch*	10
+suffer	3
+definite	2	6
+openminded*	2
+stupid*	3
+rigid*	3
+high risk	16	11
+rage*	3
+pained	3
+graceful*	2
+honest*	2
+able*	19	7
+reveal*	4
+enjoy*	2
+weapon*	3
+less expertise	10
+glamor*	2
+feud*	3
+commitment*	2	6
+fail*	10	3	20	7
+can't	1
+workshop*	17	12
+dropout*	20	7
+enabl*	19	7
+indecis*	3	5
+corrupt collaboration*	10
+resolu*	4
+couldn't	1
+welcom*	2
+considers	4
+understandab*	4
+caring	2
+dork*	3
+unusual	11
+laidback	2
+cares	2
+informed	4
+discipline*	18	12
+cared	2
+defined	6
+myster*	5
+fucked*	3
+lucks	2	5
+hardly	5
+panic*	3
+grant*	17	19	12	7
+mocking	3
+dramatic	11
+sound	11
+competitive*	11
+substantial experience	11
+sobbed	3
+danger*	3
+guessed	5
+overcome	19	7
+promising	11
+quitt*	20	7
+meticulous*	9	11
+in-depth	11
+confident*	9
+cheer*	2
+thinking*	4
+mocker*	3
+capab*	8	19	7
+authorship*	17	12
+disadvantage*	3
+alright*	2
+delectabl*	2
+author	17	12
+justif*	19	4	7
+pure*	6
+engage*	19	7
+thrill*	2
+sincer*	2
+spelled-out	11
+worr*	3
+driven	19	7
+extraordinar*	16	13
+numb*	3
+domote*	19	7
+totally	6
+conference*	17	12
+suspect*	4
+inquir*	4
+assum*	4	5
+without	1	15
+solve	19	4	7
+relief	2
+coordinate	19	7
+easing	2
+hypothes*	18	12	5
+splend*	2
+certain*	2	6
+when	14
+hateful*	3
+tense*	3
+recall*	4
+indisputabl*	11
+explanat*	4
+grounded	11
+seems	4	5
+except	15
+gossip*	3
+high impact journal*	17
+valuabl*	2
+overconfiden*	19	7
+stunk	3
+founder*	19	7
+admitting	4
+address*	19	7
+decipher*	19	7
+moron*	3
+stuns	3
+high impact journals	11
+dull*	3
+discern*	4
+benefit	2
+either	15
+refer*	4
+sadde*	3
+warfare*	3
+joking	2
+credit*	2	19	7
+bonus*	2	19	7
+disliking	3
+destroy*	3
+contingen*	5
+thinks	4
+lotta	5
+peace*	2
+teas*	3
+freer	2
+tentative*	10
+fright*	3
+giggl*	2
+conservative	10
+critical	3
+soulmate*	2
+kindn*	2
+well-planned	11
+terrifies	3
+considering	4
+power	9
+sensible	11
+multidisciplinar*	18	12
+divin*	2
+precious*	2
+terrified	3
+deduc*	4
+fondness	2
+understanding*	4
+ok	2
+ace	19	7
+unsure*	3	5
+perserver*	9
+gain*	18	19	12	7
+provide*	19	7
+informing	4
+severe*	3
+exquisite	11
+stank	3
+mean	4
+revenge*	3
+or	5	14	15
+freeing	2
+complet*	19	11	7
+skilled	19	7
+irrational*	3
+harm	3
+longing*	3
+promot*	19	7
+determine	4
+elementary	10
+mourn*	3
+possib*	5
+excruciat*	3
+belief*	4
+abuse*	3
+madder	3
+deep knowledge	11
+lot	5
+obvious*	11	6
+delicious*	2
+trivial task*	10
+yays	2
+annoy*	3
+complete	6
+livel*	2
+fundamentals	6
+concrete ideas	11
+spose	5
+partie*	2
+know-how	8
+must'nt	1	6
+trying	19	7
+wasn't	1
+supposition*	5
+sadness	3
+logic*	11	4
+agree	2
+detailed	11
+king*	19	7
+gift*	8
+importan*	19	7
+planner*	19	7
+as	14
+research*	18	12
+hasnt	1
+well-designed	11
+idiot	3
+credibility	19	11	7
+trick*	3
+apath*	3
+poor	10
+omit*	10
+seriousness	3
+trembl*	3
+unattractive	3
+examin*	4
+fool*	3
+sobbing	3
+unwelcom*	3
+someone*	5
+vulnerab*	3
+original	2	11
+induc*	4
+all	6
+consider	4
+vile	3
+provocative*	11
+founded	19	7
+candid*	9
+messy	3
+decid*	4
+bibliograph* 	17	12
+vigor*	2
+rethink*	4
+persist*	19	7
+liar*	3
+over-exaggerat*	10
+benevolen*	2
+major impact	16	11
+presentation	18	12
+reluctan*	3
+obsess*	3
+ticked	3
+carefree	2
+complete lack	10
+instinct*	8
+worst	3
+fab	2
+collaborative 	11
+eminent*	16	13
+high gain	16	11
+deficient	10
+smil*	2
+weak*	10	3
+track-record	17	12
+traged*	3
+sociab*	2
+design	18	12
+premature	10
+answer*	4
+dwell*	3
+casual	2
+mechanistic 	11
+inferr*	4
+miser*	3
+wonderf*	16	2	13
+sweetly	2
+mechanistic*	9
+fucks	3
+vigour*	2
+succinct	10
+kindof	5
+ecsta*	2
+trauma*	3
+heartbroke*	3
+turmoil	3
+outgoing	2
+chuckl*	2
+free	2
+entire*	6
+unproven	10
+ahead	19	7
+visible	19	7
+defenc*	3
+irrefu*	6
+well-structured	11
+cherish*	2
+arent	1
+incomplete*	10
+timeline	18	12
+bright*	8	2
+obnoxious*	3
+lots 	5
+conventional	10
+vague*	5
+daze*	3
+cynic*	3
+knows	4
+agress*	9
+indetermin*	5
+tested	12
+ain't	1
+broke	3
+known	4
+glad	2
+lotsa	5
+shit*	3
+none	1
+sucky	3
+frees*	2
+sucks	3
+tough*	3
+inadequa*	3	20	7
+self-promot*	10
+agentic	9
+unsavo*	3
+hurra*	2
+beautiful	16	13
+challenging	11
+triumph*	2	19	7
+share	2
+accept	2	4
+sense	4
+rapist*	3
+adventur*	2
+disliked	3
+lucked	2	5
+charm*	2
+information	12	18	4
+needy	3
+tragic* 	3
+good experience	11
+prefer*	4
+individualistic	9
+pleasur*	2
+hugs	2
+acquisition*	19	7
+explains	4
+unproductive*	10
+lack*	10
+shouldnt	1
+okay	2
+plans	19	7
+tries	19	7
+immoral*	3
+fundamentalis*	6
+unluck*	5
+hug 	2
+anytime	5
+influence*	9
+assiduous*	9
+scaring	3
+need*	10
+calm*	2
+playing	2
+high potential	16	11
+don't	1
+heartfelt	2
+isnt	1
+superb*	19	7
+somebod*	5
+hell	3
+snob*	3
+abandon*	3
+high risk/high gain	16	11
+playful*	2
+yearn*	3
+worthless* 	3
+solving	19	4	7
+fearful*	3
+flatter*	2
+strange	3
+truth*	2	6
+might	5
+haven't	1
+arrogan*	3
+oks	2
+good	2
+noticing	4
+sucked	3
+easily	2
+always	6
+hero*	2	19	7
+mastered	19	7
+found	4
+isn't	1
+forgiv*	2	4
+lab*	18	12
+idea	4
+commit*	16	11
+generat*	19	7
+imagin*	4
+earn*	19	7
+terrify	3
+really	15
+terribl*	3
+missed	3
+wondered	4	5
+unresolv*	5
+diffuse*	10
+misses	3
+paradise	2
+ought'nt	1
+world-class	16	13
+prejudic*	3
+commits	6
+obtain*	19	7
+energ*	2	11
+revolutionary	16	13
+benefits	2
+risk/gain	18	12
+unaware	10
+trust*	2
+darlin*	2
+lover*	2
+dear*	2
+joll*	2
+percept*	4
+dont	1
+feel	4
+excel*	2	19	7
+freeb*	2
+differentiat*	4
+firsts	19	7
+miss	3
+guess	5
+borderline*	5
+defend*	9
+risk*	18	3	12
+pains	3
+compliment*	2
+option	5
+defect*	10	3
+dissatisf*	3
+sketchily	10
+believe	4
+grace	2
+raping	3
+supposes	5
+grim*	3
+kindly	2
+weird*	3
+impersonal	3
+determined	2	19	4	7
+supposed	5
+molest*	3
+outstanding	16	11	13
+wasnt	1
+post-doc	17	12
+generic	10
+depending	5
+discomfort*	3
+speculative	10
+also	14
+considerable detail	11
+limited track record	10
+play	2
+overstat*	10
+phobi*	3
+neglect*	3
+most	16	5	13
+happi*	2
+plan	18	19	12	7
+nothing	1
+accepting	2	4
+extremely	6
+adept*	8
+understands	4
+clear	6
+sometimes	5
+suggest*	9
+piti*	3
+lying	3
+ugh	3
+stunned	3
+devastat*	3
+hadnt	1
+relation	4
+top-notch	16	13
+fatal*	3
+publish*	17	12
+fine	2
+daunting task	3
+grati*	2
+impact	18	19	12	7
+depended	5
+resolv*	2	19	4	7
+adjust*	4
+obscur*	5
+pretty	2	5
+altho 	14
+heaven*	2
+founding	19	7
+agoniz*	3
+dependent	10
+sunny	2
+despis*	3
+feels	4
+determines	4
+rebel*	3
+paranoi*	3
+cry	3
+aggravat*	3
+heartless*	3
+track record	17	12
+obscure	10
+unhapp*	3
+impress*	2	11
+art	11
+profound knowledge	11
+agitat*	3
+plausible	11
+oughtnt	1
+egotis*	3
+disagree*	3
+feared	3
+find*	4
+probable	5
+expert	9
+improve*	2	19	7
+few details	10
+digni*	2
+approv*	19	7
+probably	5
+kill*	3
+nope	1
+unstuitable	10
+knowing	4
+restless*	3
+disorient*	5
+missing	10	3
+intell*	8	2
+petrif*	3
+should'nt	1
+vague way	10
+defens*	3
+devil*	3
+f	2
+secrets	4
+wouldn't	1
+barely	5
+became	4
+blur*	5
+submissive*	3
+learn*	4
+threat*	3
+liked	2
+sweet	2
+jerks	3
+alone	3
+likes	2
+uncomfortabl*	3
+overambitious	10
+openness	2
+responsib*	19	7
+bitch*	3
+reliabl*	9
+engineer*	18	12
+masterful*	19	7
+appears	5
+significan*	11
+secret	4
+uncontrol*	3
+admir*	2
+success*	19	9	2	11	7
+partly	5
+reason*	4
+indefinit*	5
+systematic	11
+inaccura*	10
+interdisciplin*	18	12
+marginal*	5
+intriguing	11
+uncertain	10
+confess*	4
+compassion*	2
+solid	9
+conscious*	4
+empt*	3
+while	14
+fiesta*	2
+sobs	3
+fun	2
+strateg*	18	19	12	7
+hoping	2	5
+complica*	4
+ready	2
+electic	11
+clear*	11
+well-grounded	11
+uncertain*	3	5
+horr*	3
+solid*	11
+prick*	3
+inherent*	8
+flirt*	2
+madly	2
+grand	2
+smother*	3
+whore*	3
+anybod*	5
+comprehensive	11
+distrust*	3
+usually	5
+drawback*	10
+genuine	11
+might've	5
+task	18	12
+mobil*	9
+analysis	18	12
+funn*	2
+ache*	3
+reasonable*	11
+time delay	10
+evaluat*	4
+project*	18	12
+finaliz*	19	7
+competitive	19	7
+wise*	2
+recover*	19	7
+complain*	3
+victim*	3
+superficial	10
+cut	3
+hated	3
+guaranteed	11
+cuz	14
+grin	2
+crying	3
+active*	9	2
+hates	3
+ignor*	10	3
+expla*	11
+well done	11
+tremendous* 	16	13
+prize*	2	19	7
+jerked	3
+question*	10	4	5
+suffering	3
+careless*	3
+trueness	2
+misunder*	4
+moody	3
+pertinent	11
+conclus*	19	4	7
+worker*	19	7
+cohere*	4
+essential	6
+painf*	3
+often	5
+absolutely	6
+some	5
+vital*	2
+understood	4
+virtue*	2
+admitted	4
+forefront	16	11
+scale	18	12
+lmao	2
+invigor*	2
+formidable 	3
+fuckin*	3
+harmless*	2
+goddam*	3
+graci*	2
+nowhere	1
+need'nt	1
+sunniest	2
+relating	4
+insincer*	3
+fragment*	10
+anything	5
+state-of-the-art	16	11
+unimpress*	3
+fight*	3
+recogni*	4
+forgave	2	4
+hatred	3
+credible	11
+hazie*	5
+proven record	11
+tranquil*	2
+citation*	17	12
+innate	8
+careful*	2
+matur*	9
+original*	16	11
+hoped	2	5
+mechanistic	11
+hopes	2	5
+infers	4
+info	4
+endeav*	19	7
+harmful*	3
+prettie*	2
+maturity	11
+bore*	3
+mature	11
+sunnier	2
+helpful*	2
+worthwhile	2	11
+raging	3
+compreh*	4
+problem*	3
+hopefulness	2	5
+defines	4
+algorith*	18	12
+stammer*	3
+fears	3
+impatien*	3
+eager*	2
+application	18	12
+random*	5
+mock	3
+explaining	4
+reconcil*	4
+prepared	11
+helping	2
+rancid*	3
+neednt	1
+contribution*	17	12
+depriv*	3
+suffers	3
+practically	5
+tentativ*	5
+evil*	3
+disappoint*	3
+co-author	17	12
+partial	10
+tortur*	3
+overly	10
+disclo*	4
+unmatched	16	13
+seemed	4	5
+abusi*	3
+comfort*	2
+tehe	2
+keen*	2
+helps	2
+masculine	9
+dislike	3
+pleasing	2
+evident*	6
+fond	2
+mainstream	10
+quer*	4
+well-done	11
+result*	18	12
+hoho*	2
+sweetie*	2
+perver*	3
+inhib*	3
+timely	11
+relax*	2
+reflect*	4
+reorgani*	4
+try	19	7
+includ*	11
+multi-discipli*	18	12
+trite	3
+havent	1
+grave*	3
+enrich*	19	7
+safe*	2
+melanchol*	3
+explor*	4
+fearless*	2
+plays	2
+patent*	19	7
+giving	2
+courag*	2
+limited information	10
+engag*	2
+helper*	2
+rotten	3
+grande*	2
+suberb*	16	13
+dynamic*	9
+honor*	2	19	7
+eminently	16	13
+agreeab*	2
+unrelat*	4
+everything*	6
+focused	11
+lazie*	3	20	7
+great	2
+technical	10
+ample experience	11
+worship*	2
+weren't	1
+opinion	5
+expan*	11
+although	14
+flawless*	2
+win	2	19	7
+full understanding	11
+charit*	2
+distinguish*	4
+confidence	2	19	6	7
+crap	3
+challeng*	2	19	7
+publication*	17	12
+burden*	3
+contentment	2
+nurtur*	2
+prais*	2	19	7
+sort	5
+state of the art	16	11
+credence	19	7
+becomes	4
+visibility	19	7
+insufficient*	10
+outcome*	19	7
+offend*	3
+gladly	2
+violent*	3
+little information	10
+sceptic*	3
+challenge	18	12
+genero*	2
+adequate expertise	11
+anywhere	5
+thin	10
+didnt	1
+proof	6
+convenient*	11
+grinn*	2
+high*	16	11
+conquer*	19	7
+fatigu*	3
+daring	9	2
+free*	2
+produc*	9	19	7
+assert*	9
+revolutioni*	16	13
+varies	5
+sin	3
+tantrum*	3
+purpose*	19	7
+difficult*	3
+scholarship*	17	12
+link*	4
+readiness	2
+passion*	2
+comed*	2
+precise description	11
+allot	5
+wellgrounded	11
+despair*	3
+affection*	2
+doubtful	10
+striv*	19	7
+realiz*	4
+ambitio*	16	11
+won't	1
+wow*	2
+superior	9
+ease*	2
+whether	14	15
+radian*	2
+master*	9
+defining	4
+sweetness*	2
+descriptive	10
+offence*	3
+practice	19	7
+direct*	9
+sweets	2
+handsom*	2
+masters	19	7
+mastery	19	7
+thieve*	3
+numerous questions	10
+tempora*	5
+lotof	5
+choos*	4
+flair	8
+blue-sky	11
+clarif*	4
+proven expertise	11
+conceptuali*	19	7
+greed*	3
+special	2
+cunt*	3
+fundamentally	6
+needn't	1
+hostil*	9	3
+overtak*	19	7
+coherent*	11
+wholly	6
+freed*	2
+hilarious	2
+supports	2
+relate*	4
+decay*	3
+completely	6
+ill*	10
+cutting-edge	16	11
+anyhow	5
+attachment*	2
+quo	10
+scary	3
+support*	11
+infallib*	6
+informs	4
+determining	4
+favour*	2
+perform*	9	19	7
+disgust*	3
+respect 	2
+categor*	4
+delicate*	2
+lectur*	17	12
+remorse*	3
+innovat*	11
+acquir*	19	7
+mustve	6
+fuzz*	5
+unsupported	10
+anyone*	5
+incapab*	20	7
+mocks	3
+elit*	19	7
+nobod*	1
+interest*	2	11
+quality	11
+suck	3
+sentimental*	2
+doesn't	1
+lucki*	2	5
+humour*	2
+dynam*	2
+distinct*	6
+concrete steps	11
+frank*	9
+completed	6
+opportun*	2	19	7
+heh*	2
+completes	6
+succeed*	2	19	7
+international collaboration*	11
+loved	2
+proud*	2	19	7
+boring	3
+timid*	3
+unknow*	5
+fucker*	3
+loves	2
+maybe	5
+distinguished	9
+bet	5
+ingenious	16	13
+vulture*	3
+lame*	3
+tensing	3
+gently	2
+gentle	2
+ground-breaking	16	13
+unlikely	10
+savage*	3
+sortsa	5
+apparently	5
+uptight*	3
+rearrang*	4
+afraid	3
+graph*	18	12
+powerful tool*	11
+unlov*	3
+discourag*	3
+pivotal	16	13
+dismay*	3
+better description	11
+fantastic*	2
+unless	14	15
+loving*	2
+optimi*	2
+great experience	11
+poison*	3
+villain*	3
+medal*	19	7
+concern*	10
+skeptic*	3
+trivi*	3
+valuing	2
+reek*	3
+gratef*	2
+agreed	2
+supported	2
+planning	19	7
+indirect*	10	5
+fear	3
+agrees	2
+considerable expertise	11
+ha	2
+hopeful	2	5
+true 	2
+considerable experience	11
+inferior* 	3
+won	2	19	7
+pity* 	3
+unsuccessful*	3	20	7
+indeed	6
+smug*	3
+hope	2	5
+meant	4
+distress*	3
+means	4
+beat	19	7
+unsettl*	5
+overall	5
+lucky	2	5
+please*	2
+recollect*	4
+distraught	3
+vague term*	10
+nag*	3
+evident	11
+approach	18	12
+knowledg*	4
+candidate*	18	12
+achiev*	9	19	7
+control*	19	7
+large experience	11
+truer	2
+guessing	5
+stutter*	3
+merr*	2
+brutal*	3
+abilit*	8	19	7
+undetermin*	5
+critici*	3
+study*	18	12
+painl*	2
+bias*	10
+thesis*	18	12
+genius	8
+uneas*	3
+diligen*	19	7
+committ*	6
+neither	1
+assur*	2	6
+limit*	10	20	7
+gross*	3
+state-of-art	16	11
+benign*	2
+sortof	5
+time consuming	10
+merit*	2
+no	1
+desperat*	3
+noetic	9
+freely	2
+joy*	2
+admit	4
+ranked	19	7
+dubious*	5
+otherwise	14
+unclear	10
+top notch	16	13
+worldly	9
+feroc*	3
+little time	10
+quit	20	7
+yay	2
+intimidat*	3
+thanked	2
+hellish	3
+treat	2
+choice*	4
+rich*	2
+proposal	18	12
+define	4
+confront*	3
+senses	4
+conclud*	19	4	7
+jaded	3
+undeniab*	6
+crappy	3
+depress*	3
+argh*	3
+sensed	4
+novel	16	11
+high impact	16	11
+agreement*	2
+value	2
+extensive*	11
+goodness	2
+steal*	3
+almost	5
+actuali*	19	7
+shame*	3
+vs	15
+afterthought*	4
+competi*	9
+seeming*	4	5
+stench*	3
+perhaps	5
+fascinat*	16	11
+maddening	3
+propensity	8
+anguish*	3
+masochis*	3
+infer	4
+enrag*	3
+alot	5
+multidisciplin*	18	12
+appall*	3
+scien*	18	12
+mooch*	3
+burnout*	20	7
+unfortunate*	3
+phd	17	12
+thought	4
+sensing	4
+knower*	4
+advers*	3
+romanc*	2
+enemy*	3
+high-risk	16	11
+cried	3
+hater*	3
+humor*	2
+cries	3
+supervis*	17	12
+presum*	4
+skill	19	7
+test*	18	12
+gentlest	2
+work 	19	7
+sophistic*	11
+unparalleled	16	13
+decisive*	9
+necessar*	6
+underdevelop*	10
+betting	5
+loss*	3	20	7
+tests	12
+restructur*	4
+crushed	3
+know	4
+aversi*	3
+contempt*	3
+like	2
+lost	3	20	7
+wimp*	3
+loses	3	20	7
+lose	3	20	7
+become	4
+works	19	7
+wonders	4	5
+scrumptious*	2
+stress*	3
+because	14
+thief	3
+explicit*	11	6
+liking	2
+grr*	3
+pressur*	3
+shan't	1
+revigor*	2
+pleasant*	2
+right expertise	11
+fabulous*	16	2	13
+bless*	2
+forthright*	9
+scare*	3
+ideal*	2	19	7
+murder*	3
+stellar	11
+immature	10
+guarant*	6
+whine*	3
+authorit*	19	7
+motiv*	19	4	7
+sinister	3
+irresponsible*	20	7
+awkward*	3
+complementary expertise	11
+goal*	19	7
+articulate	11
+fund*	17	12
+doesnt	1
+couldnt	1
+griev*	3
+hardwork*	9
+kidding	2
+demonstrat*	19	7
+convinc*	2	11
+okays	2
+but	14	15
+attain*	19	7
+lone*	3
+shant	1
+promis*	2
+smart*	8	2
+notice*	4
+glory	2
+little description	10
+protesting	3
+weep*	3
+mechanism*	18	12
+frustrat*	3
+friend*	2
+mustnt	1	6
+well-defined	11
+insult*	3
+renowned	9
+unimpeachable	11
+crude*	3
+useful*	2
+reliab*	11
+compet*	8	19	7
+thankf*	2
+exceptional*	16	11	13
+contribut*	19	7
+suprem*	16	2	13
+chance	5
+kinda	5
+upset*	3
+mechanic*	9
+undecided*	5
+overwhelm*	3
+ranks	19	7
+conscientious*	9	19	7
+anxi*	3
+understand	4

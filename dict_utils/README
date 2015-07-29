@@ -1,0 +1,2 @@
+This folder contains the final dictionary and the excel file the generated it.
+If there are any changes made to `dictionary.xls` rerun `excel_to_dic.py`

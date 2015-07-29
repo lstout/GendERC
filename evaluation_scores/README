@@ -1,0 +1,5 @@
+This folder will contain the scores of the applicants in the following format:
+
+Excellent	Excellent	Excellent	Very good
+
+For every category such a line will exist, where every entry is the score the reviewer gave the applicant for that category.

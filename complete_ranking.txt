@@ -1,0 +1,936 @@
+rank	URI	name
+1	http://dbpedia.org/resource/Rockefeller_University	Rockefeller University
+2	http://dbpedia.org/resource/Massachusetts_Institute_of_Technology	Massachusetts Institute of Technology
+3	http://dbpedia.org/resource/Harvard_University	Harvard University
+4	http://dbpedia.org/resource/University_of_California,_Berkeley	University of California, Berkeley
+5	http://dbpedia.org/resource/Stanford_University	Stanford University
+6	http://dbpedia.org/resource/California_Institute_of_Technology	California Institute of Technology
+7	http://dbpedia.org/resource/Princeton_University	Princeton University
+8	http://dbpedia.org/resource/University_of_California,_Santa_Barbara	University of California, Santa Barbara
+9	http://dbpedia.org/resource/University_of_California,_San_Francisco	University of California, San Francisco
+10	http://dbpedia.org/resource/Yale_University	Yale University
+11	http://dbpedia.org/resource/Rice_University	Rice University
+12	http://dbpedia.org/resource/University_of_California,_Santa_Cruz	University of California, Santa Cruz
+13	http://dbpedia.org/resource/Northwestern_University	Northwestern University
+14	http://dbpedia.org/resource/University_of_California,_San_Diego	University of California, San Diego
+15	http://dbpedia.org/resource/University_of_Colorado_at_Boulder	University of Colorado, Boulder
+16	http://dbpedia.org/resource/University_of_Texas_Southwestern_Medical_Center	University of Texas Southwestern Medical Center, Dallas
+17	http://dbpedia.org/resource/University_of_Pennsylvania	University of Pennsylvania
+18	http://dbpedia.org/resource/University_of_Chicago	University of Chicago
+19	http://dbpedia.org/resource/University_of_Cambridge	University of Cambridge
+20	http://dbpedia.org/resource/University_of_California,_Los_Angeles	University of California, Los Angeles
+21	http://dbpedia.org/resource/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne	Ecole Polytechnique Federale de Lausanne
+22	http://dbpedia.org/resource/Weizmann_Institute_of_Science	Weizmann Institute of Science
+23	http://dbpedia.org/resource/Centre_for_History_in_Public_Health,_London_School_of_Hygiene_and_Tropical_Medicine	London School of Hygiene & Tropical Medicine
+24	http://dbpedia.org/resource/University_of_Oxford	University of Oxford
+25	http://dbpedia.org/resource/ETH_Zurich	ETH Zurich
+26	http://dbpedia.org/resource/Columbia_University	Columbia University
+27	http://dbpedia.org/resource/Johns_Hopkins_University	Johns Hopkins University
+28	http://dbpedia.org/resource/Washington_University_in_St._Louis	Washington University, St. Louis
+29	http://dbpedia.org/resource/Duke_University	Duke University
+30	http://dbpedia.org/resource/University_of_Massachusetts_Medical_School	University of Massachusetts Medical School
+31	http://dbpedia.org/resource/University_of_Washington	University of Washington, Seattle
+32	http://dbpedia.org/resource/Cornell_University	Cornell University
+33	http://dbpedia.org/resource/Imperial_College_London	Imperial College London
+34	http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill	University of North Carolina, Chapel Hill
+35	http://dbpedia.org/resource/New_York_University	New York University
+36	http://dbpedia.org/resource/Icahn_School_of_Medicine_at_Mount_Sinai	Icahn School of Medicine, Mount Sinai
+37	http://dbpedia.org/resource/Boston_University	Boston University
+38	http://dbpedia.org/resource/University_of_Michigan	University of Michigan
+39	http://dbpedia.org/resource/University_of_St_Andrews	University of St Andrews
+40	http://dbpedia.org/resource/Boston_College	Boston College
+41	http://dbpedia.org/resource/University_College_London	University College London
+42	http://dbpedia.org/resource/Dartmouth_College	Dartmouth College
+43	http://dbpedia.org/resource/University_of_Texas_at_Austin	University of Texas at Austin
+44	http://dbpedia.org/resource/Emory_University	Emory University
+45	http://dbpedia.org/resource/King's_College_London	King's College London
+46	http://dbpedia.org/resource/Carnegie_Mellon_University	Carnegie Mellon University
+47	http://dbpedia.org/resource/University_of_California,_Irvine	University of California, Irvine
+48	http://dbpedia.org/resource/University_of_Massachusetts_Amherst	University of Massachusetts Amherst
+49	http://dbpedia.org/resource/University_of_Bristol	University of Bristol
+50	http://dbpedia.org/resource/Georgia_Institute_of_Technology	Georgia Institute of Technology
+51	http://dbpedia.org/resource/University_of_Rochester	University of Rochester
+52	http://dbpedia.org/resource/Queen_Mary,_University_of_London	Queen Mary, University of London
+53	http://dbpedia.org/resource/Leiden_University	Leiden University
+54	http://dbpedia.org/resource/University_of_Lausanne	University of Lausanne
+55	http://dbpedia.org/resource/University_of_Southern_California	University of Southern California
+56	http://dbpedia.org/resource/University_of_Geneva	University of Geneva
+57	http://dbpedia.org/resource/%C3%89cole_Normale_Sup%C3%A9rieure	Ecole Normale Superieure, Paris
+58	http://dbpedia.org/resource/University_of_Exeter	University of Exeter
+59	http://dbpedia.org/resource/University_of_California,_Riverside	University of California, Riverside
+60	http://dbpedia.org/resource/University_of_Wisconsin_Law_School	University of Wisconsin, Madison
+61	http://dbpedia.org/resource/Baylor_College_of_Medicine	Baylor College of Medicine
+62	http://dbpedia.org/resource/University_of_Edinburgh	University of Edinburgh
+63	http://dbpedia.org/resource/University_of_Basel	University of Basel
+64	http://dbpedia.org/resource/Vrije_Universiteit	VU University Amsterdam
+65	http://dbpedia.org/resource/University_of_Dundee	University of Dundee
+66	http://dbpedia.org/resource/University_of_Pittsburgh	University of Pittsburgh
+67	http://dbpedia.org/resource/ETH_Zurich	University of Zurich
+68	http://dbpedia.org/resource/University_of_Illinois_School_of_Architecture	University of Illinois, Urbana-Champaign
+69	http://dbpedia.org/resource/Vanderbilt_University	Vanderbilt University
+70	http://dbpedia.org/resource/Tufts_University	Tufts University
+71	http://dbpedia.org/resource/Technical_University_Munich	Technische UniversitÌ_t MÌ_nchen
+72	http://dbpedia.org/resource/University_of_California,_Davis	University of California, Davis
+73	http://dbpedia.org/resource/Technical_University_of_Denmark	Technical University of Denmark
+74	http://dbpedia.org/resource/Case_Western_Reserve_University	Case Western Reserve University
+75	http://dbpedia.org/resource/University_of_Maryland,_College_Park	University of Maryland, College Park
+76	http://dbpedia.org/resource/Oregon_Health_&_Science_University	Oregon Health & Science University
+77	http://dbpedia.org/resource/Utrecht_University	Utrecht University
+78	http://dbpedia.org/resource/York_University	University of York
+79	http://dbpedia.org/resource/University_of_Aberdeen	University of Aberdeen
+80	http://dbpedia.org/resource/Trinity_College,_Dublin	Trinity College, Dublin
+81	http://dbpedia.org/resource/University_of_Amsterdam	University of Amsterdam
+82	http://dbpedia.org/resource/Brown_University	Brown University
+83	http://dbpedia.org/resource/University_of_Warwick	University of Warwick
+84	http://dbpedia.org/resource/University_of_Oregon	University of Oregon
+85	http://dbpedia.org/resource/Erasmus_University_Rotterdam	Erasmus University Rotterdam
+86	http://dbpedia.org/resource/Paris_Descartes_University	Paris Descartes University
+87	http://dbpedia.org/resource/University_of_Toronto	University of Toronto
+88	http://dbpedia.org/resource/Yeshiva_University	Yeshiva University
+89	http://dbpedia.org/resource/University_of_Minnesota	University of Minnesota, Twin Cities
+90	http://dbpedia.org/resource/University_of_Plymouth	Plymouth University
+91	http://dbpedia.org/resource/Paris_Diderot_University	Paris Diderot University
+92	http://dbpedia.org/resource/University_of_East_Anglia	University of East Anglia
+93	http://dbpedia.org/resource/Wageningen_University_and_Research_Centre	Wageningen University and Research Centre
+94	http://dbpedia.org/resource/Eindhoven_University_of_Technology	Eindhoven University of Technology
+95	http://dbpedia.org/resource/University_of_Colorado_Denver	University of Colorado, Denver
+96	http://dbpedia.org/resource/University_of_Texas_Health_Science_Center_at_Houston	University of Texas Health Science Center, Houston
+97	http://dbpedia.org/resource/Radboud_University_Nijmegen	Radboud University Nijmegen
+98	http://dbpedia.org/resource/Nanyang_Technological_University	Nanyang Technological University
+99	http://dbpedia.org/resource/Rutgers_University	Rutgers State University, New Brunswick
+100	http://dbpedia.org/resource/University_of_Utah	University of Utah
+101	http://dbpedia.org/resource/Stony_Brook_University	Stony Brook University, The State University of New York
+102	http://dbpedia.org/resource/University_of_Twente	University of Twente
+103	http://dbpedia.org/resource/University_of_Delaware	University of Delaware
+104	http://dbpedia.org/resource/Australian_National_University	Australian National University
+105	http://dbpedia.org/resource/University_of_Virginia	University of Virginia
+106	http://dbpedia.org/resource/University_of_Texas_System	University of Texas Health Science Center, San Antonio
+107	http://dbpedia.org/resource/University_of_Freiburg	University of Freiburg
+108	http://dbpedia.org/resource/Durham_University	Durham University
+109	http://dbpedia.org/resource/University_of_British_Columbia	University of British Columbia
+110	http://dbpedia.org/resource/Maastricht_University	Maastricht University
+111	http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich	Ludwig Maximilian University of Munich
+112	http://dbpedia.org/resource/National_University_of_Singapore	National University of Singapore
+113	http://dbpedia.org/resource/Northeastern_University	Northeastern University, USA
+114	http://dbpedia.org/resource/Pierre_and_Marie_Curie_University	Pierre-and-Marie-Curie University
+115	http://dbpedia.org/resource/Katholieke_Universiteit_Leuven	Katholieke Universiteit Leuven
+116	http://dbpedia.org/resource/University_of_M%C3%BCnster	University of MÌ_nster
+117	http://dbpedia.org/resource/University_of_Glasgow	University of Glasgow
+118	http://dbpedia.org/resource/University_of_Leeds	University of Leeds
+119	http://dbpedia.org/resource/McGill_University	McGill University
+120	http://dbpedia.org/resource/University_of_Groningen	University of Groningen
+121	http://dbpedia.org/resource/Newcastle_University	Newcastle University
+122	http://dbpedia.org/resource/University_of_Liverpool	University of Liverpool
+123	http://dbpedia.org/resource/University_of_Melbourne	University of Melbourne
+124	http://dbpedia.org/resource/Rensselaer_Polytechnic_Institute	Rensselaer Polytechnic Institute
+125	http://dbpedia.org/resource/Karolinska_Institutet	Karolinska Institute
+126	http://dbpedia.org/resource/University_of_Notre_Dame	University of Notre Dame
+127	http://dbpedia.org/resource/Bordeaux_Segalen_University	University of Bordeaux Segalen
+128	http://dbpedia.org/resource/University_of_Copenhagen	University of Copenhagen
+129	http://dbpedia.org/resource/Paris-Sud_11_University	University of Paris-Sud
+130	http://dbpedia.org/resource/University_of_Konstanz	University of Konstanz
+131	http://dbpedia.org/resource/Aarhus_University	Aarhus University
+132	http://dbpedia.org/resource/Indiana_University_Bloomington	Indiana University, Bloomington
+133	http://dbpedia.org/resource/University_of_W%C3%BCrzburg	University of WÌ_rzburg
+134	http://dbpedia.org/resource/Colorado_State_University	Colorado State University
+135	http://dbpedia.org/resource/University_of_Nice_Sophia_Antipolis	University of Nice Sophia Antipolis
+136	http://dbpedia.org/resource/University_of_Nottingham	University of Nottingham
+137	http://dbpedia.org/resource/University_of_Queensland	University of Queensland
+138	http://dbpedia.org/resource/University_of_Iowa	University of Iowa
+139	http://dbpedia.org/resource/Joseph_Fourier_University	Joseph Fourier University
+140	http://dbpedia.org/resource/Stockholm_University	Stockholm University
+141	http://dbpedia.org/resource/University_of_Sheffield	University of Sheffield
+142	http://dbpedia.org/resource/Ohio_State_University	Ohio State University
+143	http://dbpedia.org/resource/University_of_Texas_at_Dallas	University of Texas, Dallas
+144	http://dbpedia.org/resource/Montpellier_2_University	University of Montpellier II
+145	http://dbpedia.org/resource/Monash_University	Monash University
+146	http://dbpedia.org/resource/University_of_Maryland,_Baltimore_County	University of Maryland, Baltimore
+147	http://dbpedia.org/resource/Georgetown_University	Georgetown University
+148	http://dbpedia.org/resource/Delft_University_of_Technology	Delft University of Technology
+149	http://dbpedia.org/resource/Pennsylvania_State_University	Pennsylvania State University
+150	http://dbpedia.org/resource/University_of_Graz	Karl Franzens University of Graz
+151	http://dbpedia.org/resource/Universit%C3%A9_catholique_de_Louvain	UniversitÌ© Catholique de Louvain
+152	http://dbpedia.org/resource/University_of_Regensburg	University of Regensburg
+153	http://dbpedia.org/resource/University_of_Bonn	University of Bonn
+154	http://dbpedia.org/resource/Hong_Kong_University_of_Science_and_Technology	Hong Kong University of Science and Technology
+155	http://dbpedia.org/resource/University_of_Arizona	University of Arizona
+156	http://dbpedia.org/resource/University_of_Southampton	University of Southampton
+157	http://dbpedia.org/resource/University_of_Bordeaux_1	University of Bordeaux I
+158	http://dbpedia.org/resource/James_Cook_University	James Cook University
+159	http://dbpedia.org/resource/Arizona_State_University	Arizona State University
+160	http://dbpedia.org/resource/University_of_Bern	University of Bern
+161	http://dbpedia.org/resource/University_of_Manchester	University of Manchester
+162	http://dbpedia.org/resource/Purdue_University	Purdue University, Lafayette
+163	http://dbpedia.org/resource/Fuzhou_University	Fuzhou University
+164	http://dbpedia.org/resource/University_of_Sussex	University of Sussex
+165	http://dbpedia.org/resource/University_of_Technology,_Sydney	University of Technology Sydney
+166	http://dbpedia.org/resource/University_of_G%C3%B6ttingen	University of GÌ_ttingen
+167	http://dbpedia.org/resource/University_of_New_Mexico	University of New Mexico
+168	http://dbpedia.org/resource/University_of_Cincinnati	University of Cincinnati
+169	http://dbpedia.org/resource/University_of_Montpellier	University of Montpellier I
+170	http://dbpedia.org/resource/Syracuse_University	Syracuse University
+171	http://dbpedia.org/resource/ETH_Zurich	Ìäcole Polytechnique
+172	http://dbpedia.org/resource/Lancaster_University	Lancaster University
+173	http://dbpedia.org/resource/Pohang_University_of_Science_and_Technology	Pohang University of Science and Technology
+174	http://dbpedia.org/resource/Heidelberg_University	Heidelberg University
+175	http://dbpedia.org/resource/University_College_Cork	University College Cork
+176	http://dbpedia.org/resource/University_of_D%C3%BCsseldorf	Heinrich Heine Univ DÌ_sseldorf
+177	http://dbpedia.org/resource/University_of_Hawaii	University of Hawaii, Manoa
+178	http://dbpedia.org/resource/Lehigh_University	Lehigh University
+179	http://dbpedia.org/resource/University_of_Birmingham	University of Birmingham
+180	http://dbpedia.org/resource/Rovira_i_Virgili_University	Rovira i Virgili University
+181	http://dbpedia.org/resource/University_of_Stuttgart	University of Stuttgart
+182	http://dbpedia.org/resource/Cardiff_University	Cardiff University
+183	http://dbpedia.org/resource/Victoria_University_of_Wellington	University of Victoria
+184	http://dbpedia.org/resource/University_of_Strasbourg	University of Strasbourg
+185	http://dbpedia.org/resource/University_of_Ottawa	University of Ottawa
+186	http://dbpedia.org/resource/London_School_of_Economics	London School of Economics and Political Science
+187	http://dbpedia.org/resource/City_University_of_Hong_Kong	City University of Hong Kong
+188	http://dbpedia.org/resource/McMaster_University	McMaster University
+189	http://dbpedia.org/resource/Goethe_University_Frankfurt	Goethe University Frankfurt
+190	http://dbpedia.org/resource/Texas_A&M_University	Texas A&M University, College Station
+191	http://dbpedia.org/resource/University_of_Alabama_at_Birmingham	University of Alabama, Birmingham
+192	http://dbpedia.org/resource/Free_University_of_Berlin	Freie UniversitÌ_t Berlin
+193	http://dbpedia.org/resource/University_of_Trento	University of Trento
+194	http://dbpedia.org/resource/University_at_Albany,_SUNY	University of Albany
+195	http://dbpedia.org/resource/University_of_Idaho	University of Idaho
+196	http://dbpedia.org/resource/Oregon_State_University	Oregon State University
+197	http://dbpedia.org/resource/University_of_New_South_Wales	University of New South Wales
+198	http://dbpedia.org/resource/Nankai_University	Nankai University
+199	http://dbpedia.org/resource/Wuhan_University_of_Technology	Wuhan University of Technology
+200	http://dbpedia.org/resource/Humboldt_University_of_Berlin	Humboldt University of Berlin
+201	http://dbpedia.org/resource/University_of_Hull	University of Hull
+202	http://dbpedia.org/resource/Medical_University_of_South_Carolina	Medical University of South Carolina
+203	http://dbpedia.org/resource/University_of_Reading	University of Reading
+204	http://dbpedia.org/resource/University_of_Marburg	Philipps-UniversitÌ_t Marburg
+205	http://dbpedia.org/resource/National_University_of_Ireland,_Galway	National University of Ireland, Galway
+206	http://dbpedia.org/resource/Hunan_University	Hunan University
+207	http://dbpedia.org/resource/Florida_State_University	Florida State University
+208	http://dbpedia.org/resource/Michigan_State_University	Michigan State University
+209	http://dbpedia.org/resource/University_of_New_Hampshire	University of New Hampshire
+210	http://dbpedia.org/resource/University_of_Bayreuth	University of Bayreuth
+211	http://dbpedia.org/resource/University_of_Hamburg	University of Hamburg
+212	http://dbpedia.org/resource/University_of_Science_and_Technology_of_China	University of Science and Technology of China
+213	http://dbpedia.org/resource/Hebrew_University_of_Jerusalem	Hebrew University of Jerusalem
+214	http://dbpedia.org/resource/Thomas_Jefferson_University	Thomas Jefferson University
+215	http://dbpedia.org/resource/University_of_Kiel	Kiel University
+216	http://dbpedia.org/resource/University_of_Barcelona	University of Barcelona
+217	http://dbpedia.org/resource/Universit%C3%A9_libre_de_Bruxelles	UniversitÌ© Libre de Bruxelles
+218	http://dbpedia.org/resource/University_of_Leicester	University of Leicester
+219	http://dbpedia.org/resource/University_of_Adelaide	University of Adelaide
+220	http://dbpedia.org/resource/University_of_Hong_Kong	University of Hong Kong
+221	http://dbpedia.org/resource/University_of_South_Carolina	University of South Carolina
+222	http://dbpedia.org/resource/University_of_Mainz	Johannes Gutenberg Univ Mainz
+223	http://dbpedia.org/resource/University_of_Ulm	University of Ulm
+224	http://dbpedia.org/resource/Medical_University_of_Vienna	Medical University of Vienna
+225	http://dbpedia.org/resource/University_of_Cologne	University of Cologne
+226	http://dbpedia.org/resource/Rush_Medical_College	Rush University
+227	http://dbpedia.org/resource/University_of_Miami	University of Miami
+228	http://dbpedia.org/resource/University_of_Calgary	University of Calgary
+229	http://dbpedia.org/resource/University_of_Erlangen-Nuremberg	Friedrich-Alexander-UniversitÌ_t Erlangen-NÌ_rnberg
+230	http://dbpedia.org/resource/University_of_Gothenburg	University of Gothenburg
+231	http://dbpedia.org/resource/San_Diego_State_University	San Diego State University
+232	http://dbpedia.org/resource/RWTH_Aachen_University	RWTH Aachen University
+233	http://dbpedia.org/resource/Karlsruhe_Institute_of_Technology	Karlsruhe Institute of Technology
+234	http://dbpedia.org/resource/Brunel_University	Brunel University
+235	http://dbpedia.org/resource/Universit%C3%A9_de_Sherbrooke	UniversitÌ© de Sherbrooke
+236	http://dbpedia.org/resource/University_of_Texas_Medical_Branch	University of Texas Medical Branch at Galveston
+237	http://dbpedia.org/resource/University_of_Southern_Denmark	University of Southern Denmark
+238	http://dbpedia.org/resource/University_of_Cape_Town	University of Cape Town
+239	http://dbpedia.org/resource/Berlin_Institute_of_Technology	Technische UniversitÌ_t Berlin
+240	http://dbpedia.org/resource/Wake_Forest_University	Wake Forest University
+241	http://dbpedia.org/resource/University_of_Bath	University of Bath
+242	http://dbpedia.org/resource/University_of_Vienna	University of Vienna
+243	http://dbpedia.org/resource/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al	UniversitÌ© du QuÌ©bec a MontrÌ©al
+244	http://dbpedia.org/resource/Ghent_University	Ghent University
+245	http://dbpedia.org/resource/Newcastle_University	University of Newcastle
+246	http://dbpedia.org/resource/University_of_Antwerp	University of Antwerp
+247	http://dbpedia.org/resource/Tulane_University	Tulane University
+248	http://dbpedia.org/resource/Claude_Bernard_University_Lyon_1	University Claude Bernard Lyon I
+249	http://dbpedia.org/resource/University_of_Otago	University of Otago
+250	http://dbpedia.org/resource/University_of_Sydney	University of Sydney
+251	http://dbpedia.org/resource/Virginia_Commonwealth_University	Virginia Commonwealth University
+252	http://dbpedia.org/resource/Tilburg_University	Tilburg University
+253	http://dbpedia.org/resource/Georgia_Health_Sciences_University	Georgia Health Sciences University
+254	http://dbpedia.org/resource/University_of_Tennessee	University of Tennessee, Knoxville
+255	http://dbpedia.org/resource/Grenoble_Institute_of_Technology	Grenoble INP
+256	http://dbpedia.org/resource/Paris_12_Val_de_Marne_University	University Paris-Est Creteil Val de Marne
+257	http://dbpedia.org/resource/University_of_Iowa	Iowa State University
+258	http://dbpedia.org/resource/Innsbruck_Medical_University	Innsbruck Medical University
+259	http://dbpedia.org/resource/University_of_Connecticut	University of Connecticut
+260	http://dbpedia.org/resource/University_of_Central_Florida	University of Central Florida
+261	http://dbpedia.org/resource/Chinese_University_of_Hong_Kong	Chinese University of Hong Kong
+262	http://dbpedia.org/resource/University_of_L%C3%BCbeck	University of LÌ_beck
+263	http://dbpedia.org/resource/University_of_Burgundy	University of Burgundy
+264	http://dbpedia.org/resource/Tsinghua_University	Tsinghua University
+265	http://dbpedia.org/resource/Lund_University	Lund University
+266	http://dbpedia.org/resource/Ruhr_University_Bochum	Ruhr-University Bochum
+267	http://dbpedia.org/resource/Simon_Fraser_University	Simon Fraser University
+268	http://dbpedia.org/resource/University_of_Georgia	University of Georgia
+269	http://dbpedia.org/resource/University_of_Helsinki	University of Helsinki
+270	http://dbpedia.org/resource/East_China_University_of_Science_and_Technology	East China University of Science and Technology
+271	http://dbpedia.org/resource/University_of_Innsbruck	Leopold Franzens University of Innsbruck
+272	http://dbpedia.org/resource/University_of_Auckland	University of Auckland
+273	http://dbpedia.org/resource/University_of_Nebraska%E2%80%93Lincoln	University of Nebraska, Lincoln
+274	http://dbpedia.org/resource/University_of_Toulouse	Paul Sabatier University
+275	http://dbpedia.org/resource/Aalborg_University	Aalborg University
+276	http://dbpedia.org/resource/University_of_Waterloo	University of Waterloo
+277	http://dbpedia.org/resource/Dresden_University_of_Technology	Technische UniversitÌ_t Dresden
+278	http://dbpedia.org/resource/University_of_Arkansas_for_Medical_Sciences	University of Arkansas for Medical Sciences, Little Rock
+279	http://dbpedia.org/resource/University_of_Duisburg-Essen	University of Duisburg-Essen
+280	http://dbpedia.org/resource/University_of_Potsdam	UniversitÌ_t Potsdam
+281	http://dbpedia.org/resource/University_of_Jena	Friedrich-Schiller-UniversitÌ_t Jena
+282	http://dbpedia.org/resource/Vienna_University_of_Technology	Vienna University of Technology
+283	http://dbpedia.org/resource/KAIST	Korea Advanced Institute of Science and Technology
+284	http://dbpedia.org/resource/Deakin_University	Deakin University
+285	http://dbpedia.org/resource/University_of_Montreal	University of Montreal
+286	http://dbpedia.org/resource/University_at_Buffalo,_The_State_University_of_New_York	University at Buffalo, The State University of New York
+287	http://dbpedia.org/resource/Hannover_Medical_School	Hannover Medical School
+288	http://dbpedia.org/resource/Aix-Marseille_University	Aix-Marseille University
+289	http://dbpedia.org/resource/University_of_Kentucky	University of Kentucky
+290	http://dbpedia.org/resource/University_of_Florida	University of Florida
+291	http://dbpedia.org/resource/Wayne_State_University	Wayne State University
+292	http://dbpedia.org/resource/Queen's_University_Belfast	Queen's University Belfast
+293	http://dbpedia.org/resource/Xiamen_University	Xiamen University
+294	http://dbpedia.org/resource/University_of_Verona	University of Verona
+295	http://dbpedia.org/resource/University_of_Hanover	Gottfried Wilhelm Leibniz UniversitÌ_t Hannover
+296	http://dbpedia.org/resource/Macquarie_University	Macquarie University
+297	http://dbpedia.org/resource/Uppsala_University	Uppsala University
+298	http://dbpedia.org/resource/University_College_Dublin	University College Dublin
+299	http://dbpedia.org/resource/University_of_Houston	University of Houston
+300	http://dbpedia.org/resource/University_of_Nevada,_Reno	University of Nevada, Reno
+301	http://dbpedia.org/resource/Laval_University	Laval University
+302	http://dbpedia.org/resource/University_of_Montana	Montana State University
+303	http://dbpedia.org/resource/University_of_Rennes_1	University of Rennes I
+304	http://dbpedia.org/resource/Lille_University_of_Science_and_Technology	Lille University of Science and Technology
+305	http://dbpedia.org/resource/University_of_Medicine_and_Dentistry_of_New_Jersey	University of Medicine and Dentistry of New Jersey
+306	http://dbpedia.org/resource/Ewha_Womans_University	Ewha Womans University
+307	http://dbpedia.org/resource/Utah_State_University	Utah State University
+308	http://dbpedia.org/resource/Hong_Kong_Polytechnic_University	Hong Kong Polytechnic University
+309	http://dbpedia.org/resource/Indiana_University_%E2%80%93_Purdue_University_Indianapolis	Indiana University - Purdue University Indianapolis
+310	http://dbpedia.org/resource/Chalmers_University_of_Technology	Chalmers University of Technology
+311	http://dbpedia.org/resource/University_of_South_Florida	University of South Florida, Tampa
+312	http://dbpedia.org/resource/University_of_Illinois_at_Chicago	University of Illinois, Chicago
+313	http://dbpedia.org/resource/South_China_University_of_Technology	South China University of Technology
+314	http://dbpedia.org/resource/University_of_Wollongong	University of Wollongong
+315	http://dbpedia.org/resource/Medical_College_of_Wisconsin	Medical College of Wisconsin
+316	http://dbpedia.org/resource/University_of_T%C3%BCbingen	University of TÌ_bingen
+317	http://dbpedia.org/resource/University_of_Oslo	University of Oslo
+318	http://dbpedia.org/resource/University_of_Troms%C3%B8	University of TromsÌü
+319	http://dbpedia.org/resource/University_of_Greifswald	Ernst Moritz Arndt University of Greifswald
+320	http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Milwaukee	University of Wiscousin, Milwaukee
+321	http://dbpedia.org/resource/Lanzhou_University	Lanzhou University
+322	http://dbpedia.org/resource/University_of_Manitoba	University of Manitoba
+323	http://dbpedia.org/resource/Kent_State_University	Kent State University
+324	http://dbpedia.org/resource/Queen's_University	Queen's University
+325	http://dbpedia.org/resource/University_of_Missouri	University of Missouri, Columbia
+326	http://dbpedia.org/resource/University_of_Western_Australia	University of Western Australia
+327	http://dbpedia.org/resource/North_Carolina_State_University	North Carolina State University
+328	http://dbpedia.org/resource/George_Washington_University	George Washington University
+329	http://dbpedia.org/resource/HEC_Management_School_%E2%80%93_University_of_Li%C3%A8ge	University of LiÌ¬ge
+330	http://dbpedia.org/resource/University_of_Alberta	University of Alberta
+331	http://dbpedia.org/resource/Norwegian_University_of_Science_and_Technology	Norwegian University of Science and Technology
+332	http://dbpedia.org/resource/University_of_Oklahoma	University of Oklahoma
+333	http://dbpedia.org/resource/University_of_Crete	University of Crete
+334	http://dbpedia.org/resource/University_of_Vermont	University of Vermont
+335	http://dbpedia.org/resource/Donghua_University	Donghua University
+336	http://dbpedia.org/resource/Bielefeld_University	University of Bielefeld
+337	http://dbpedia.org/resource/Ume%C3%A5_University	UmeÌ´ University
+338	http://dbpedia.org/resource/University_of_Wyoming	University of Wyoming
+339	http://dbpedia.org/resource/Technische_Universit%C3%A4t_Darmstadt	Technische UniversitÌ_t Darmstadt
+340	http://dbpedia.org/resource/University_of_Milan	University of Milan
+341	http://dbpedia.org/resource/University_of_Perugia	University of Perugia
+342	http://dbpedia.org/resource/University_of_Tokyo	University of Tokyo
+343	http://dbpedia.org/resource/University_of_Western_Sydney	University of Western Sydney
+344	http://dbpedia.org/resource/University_of_Milan_Bicocca	University of Milan Bicocca
+345	http://dbpedia.org/resource/Saarland_University	Saarland University
+346	http://dbpedia.org/resource/University_of_Kent	University of Kent
+347	http://dbpedia.org/resource/George_Mason_University	George Mason University
+348	http://dbpedia.org/resource/Aalto_University	Aalto University
+349	http://dbpedia.org/resource/Northeast_Normal_University	Northeast Normal University
+350	http://dbpedia.org/resource/Dalhousie_University	Dalhousie University
+351	http://dbpedia.org/resource/Fudan_University	Fudan University
+352	http://dbpedia.org/resource/New_York_University	York University
+353	http://dbpedia.org/resource/Saint_Louis_University	St Louis University
+354	http://dbpedia.org/resource/Temple_University	Temple University
+355	http://dbpedia.org/resource/Beijing_University_of_Posts_and_Telecommunications	Beijing University of Posts & Telecommunications
+356	http://dbpedia.org/resource/University_of_Ferrara	University of Ferrara
+357	http://dbpedia.org/resource/Vrije_Universiteit_Brussel	Vrije Universiteit Brussel
+358	http://dbpedia.org/resource/Xidian_University	Xidian University
+359	http://dbpedia.org/resource/Peking_University	Peking University
+360	http://dbpedia.org/resource/Cranfield_University	Cranfield University
+361	http://dbpedia.org/resource/University_of_Trieste	University of Trieste
+362	http://dbpedia.org/resource/Open_University	Open University
+363	http://dbpedia.org/resource/Royal_Institute_of_Technology	KTH Royal Institute of Technology
+364	http://dbpedia.org/resource/University_of_Kansas	University of Kansas
+365	http://dbpedia.org/resource/Hong_Kong_Baptist_University	Hong Kong Baptist University
+366	http://dbpedia.org/resource/Swedish_University_of_Agricultural_Sciences	Swedish University of Agricultural Sciences
+367	http://dbpedia.org/resource/University_of_Tasmania	University of Tasmania
+368	http://dbpedia.org/resource/University_of_Leipzig	Leipzig University
+369	http://dbpedia.org/resource/Politecnico_di_Milano	Politecnico di Milano
+370	http://dbpedia.org/resource/University_of_Louisville	University of Louisville
+371	http://dbpedia.org/resource/University_of_Pavia	University of Pavia
+372	http://dbpedia.org/resource/Dalian_University_of_Technology	Dalian University of Technology
+373	http://dbpedia.org/resource/Flinders_University	University of South Australia
+374	http://dbpedia.org/resource/University_of_Pittsburgh	Western University
+375	http://dbpedia.org/resource/University_of_Florence	University of Florence
+376	http://dbpedia.org/resource/%C3%89cole_Polytechnique_de_Montr%C3%A9al	Polytechnique de MontrÌ©al
+377	http://dbpedia.org/resource/University_of_Bergen	University of Bergen
+378	http://dbpedia.org/resource/Curtin_University	Curtin University
+379	http://dbpedia.org/resource/University_of_Minho	University of Minho
+380	http://dbpedia.org/resource/Washington_State_University	Washington State University
+381	http://dbpedia.org/resource/University_of_Strathclyde	University of Strathclyde
+382	http://dbpedia.org/resource/Brescia_University_College	University of Brescia
+383	http://dbpedia.org/resource/Polytechnic_University_of_Valencia	Universitat PolitÌ¬cnica de ValÌ¬ncia
+384	http://dbpedia.org/resource/University_of_Turku	University of Turku
+385	http://dbpedia.org/resource/Virginia_Polytechnic_Institute_and_State_University	Virginia Polytechnic Institute and State University
+386	http://dbpedia.org/resource/Braunschweig_University_of_Technology	Technische UniversitÌ_t Braunschweig
+387	http://dbpedia.org/resource/University_of_Akron	University of Akron
+388	http://dbpedia.org/resource/East_China_Normal_University	East China Normal University
+389	http://dbpedia.org/resource/Nanjing_University_of_Science_and_Technology	Nanjing University of Science and Technology
+390	http://dbpedia.org/resource/Link%C3%B6ping_University	LinkÌ_ping University
+391	http://dbpedia.org/resource/Heriot-Watt_University	Heriot-Watt University of Edinburgh
+392	http://dbpedia.org/resource/Nanjing_University	Nanjing University
+393	http://dbpedia.org/resource/Beijing_Institute_of_Technology	Beijing Institute of Technology - BIT
+394	http://dbpedia.org/resource/Autonomous_University_of_Madrid	Universidad Autonoma de Madrid
+395	http://dbpedia.org/resource/Catholic_University_of_Cordoba	University of CÌ_rdoba
+396	http://dbpedia.org/resource/Drexel_University	Drexel University
+397	http://dbpedia.org/resource/Autonomous_University_of_Barcelona	Universidad Autonoma de Barcelona
+398	http://dbpedia.org/resource/Polytechnic_University_of_Turin	Polytechnic University of Turin
+399	http://dbpedia.org/resource/University_of_Surrey	University of Surrey
+400	http://dbpedia.org/resource/Charles_III_University_of_Madrid	Carlos III University of Madrid
+401	http://dbpedia.org/resource/University_of_Vigo	University of Vigo
+402	http://dbpedia.org/resource/University_of_Eastern_Finland	University of Eastern Finland
+403	http://dbpedia.org/resource/University_of_Giessen	Giessen University
+404	http://dbpedia.org/resource/New_University_of_Lisbon	Universidade Nova de Lisboa
+405	http://dbpedia.org/resource/University_of_Rostock	University of Rostock
+406	http://dbpedia.org/resource/Clemson_University	Clemson University
+407	http://dbpedia.org/resource/Technion	Technion - Israel Institute of Technology
+408	http://dbpedia.org/resource/University_of_Salerno	University of Salerno
+409	http://dbpedia.org/resource/Beijing_University_of_Chemical_Technology	Beijing University of Chemical Technology
+410	http://dbpedia.org/resource/University_of_Texas_at_San_Antonio	University of Texas, San Antonio
+411	http://dbpedia.org/resource/National_Tsing_Hua_University	National Tsing Hua University
+412	http://dbpedia.org/resource/Loughborough_University	Loughborough University
+413	http://dbpedia.org/resource/University_of_Padua	University of Padova
+414	http://dbpedia.org/resource/Soochow_University_(Suzhou)	Soochow University
+415	http://dbpedia.org/resource/Griffith_University	Griffith University
+416	http://dbpedia.org/resource/Florida_International_University	Florida International University
+417	http://dbpedia.org/resource/Northeastern_University_(China)	Northeastern University, China
+418	http://dbpedia.org/resource/Indian_Institute_of_Technology_Roorkee	Indian Institute of Technology Roorkee
+419	http://dbpedia.org/resource/University_of_Bologna	University of Bologna
+420	http://dbpedia.org/resource/Massey_University	Massey University
+421	http://dbpedia.org/resource/University_of_Guelph	University of Guelph
+422	http://dbpedia.org/resource/Graz_University_of_Technology	Technical University of Graz
+423	http://dbpedia.org/resource/Kyoto_University	Kyoto University
+424	http://dbpedia.org/resource/Memorial_University_of_Newfoundland	Memorial University of Newfoundland
+425	http://dbpedia.org/resource/Harbin_Institute_of_Technology	Harbin Institute of Technology
+426	http://dbpedia.org/resource/King_Abdulaziz_University	King Abdulaziz University
+427	http://dbpedia.org/resource/Southeast_University	Southeast University
+428	http://dbpedia.org/resource/University_of_Valencia	University of Valencia
+429	http://dbpedia.org/resource/Nanjing_University_of_Aeronautics_and_Astronautics	Nanjing University of Aeronautics and Astronautics - NUAA
+430	http://dbpedia.org/resource/University_of_Parma	University of Parma
+431	http://dbpedia.org/resource/University_of_M%C3%A1laga	University of MÌÁlaga
+432	http://dbpedia.org/resource/University_of_Turin	University of Torino
+433	http://dbpedia.org/resource/University_of_Lorraine	University of Lorraine
+434	http://dbpedia.org/resource/University_of_Jyv%C3%A4skyl%C3%A4	University of JyvÌ_skylÌ_
+435	http://dbpedia.org/resource/Medical_University_of_Graz	Medical University of Graz
+436	http://dbpedia.org/resource/University_of_Puerto_Rico	University of Porto
+437	http://dbpedia.org/resource/University_of_Poitiers	University of Poitiers
+438	http://dbpedia.org/resource/Louisiana_State_University	Louisiana State University
+439	http://dbpedia.org/resource/Shanghai_University	Shanghai University
+440	http://dbpedia.org/resource/University_of_Bremen	University of Bremen
+441	http://dbpedia.org/resource/University_of_Santiago_de_Compostela	University of Santiago de Compostela
+442	http://dbpedia.org/resource/Kansas_State_University	Kansas State University
+443	http://dbpedia.org/resource/Swansea_University	Swansea University
+444	http://dbpedia.org/resource/University_of_Toledo	University of Toledo
+445	http://dbpedia.org/resource/Carleton_College	University of Carleton
+446	http://dbpedia.org/resource/University_of_Aveiro	University of Aveiro
+447	http://dbpedia.org/resource/RMIT_University	Royal Melbourne Institute of Technology
+448	http://dbpedia.org/resource/University_of_Granada	Universidad de Granada
+449	http://dbpedia.org/resource/Concordia_University	Concordia University
+450	http://dbpedia.org/resource/University_of_Ioannina	University of Ioannina
+451	http://dbpedia.org/resource/Loyola_University_Chicago	Loyola University Chicago
+452	http://dbpedia.org/resource/Marche_Polytechnic_University	UniversitÌÊ Politecnica delle Marche
+453	http://dbpedia.org/resource/Sun_Yat-sen_University	Sun Yat-sen University
+454	http://dbpedia.org/resource/National_Technical_University_of_Athens	National Technical University of Athens
+455	http://dbpedia.org/resource/University_of_Navarra	University of Navarra
+456	http://dbpedia.org/resource/Gwangju_Institute_of_Science_and_Technology	Gwangju Institute of Science & Technology
+457	http://dbpedia.org/resource/University_of_Texas_at_Arlington	University of Texas, Arlington
+458	http://dbpedia.org/resource/Otto-von-Guericke_University_Magdeburg	Otto-von-Guericke University Magdeburg
+459	http://dbpedia.org/resource/University_of_Halle-Wittenberg	Martin Luther University of Halle-Wittenberg
+460	http://dbpedia.org/resource/Beijing_Normal_University	Beijing Normal University
+461	http://dbpedia.org/resource/Amirkabir_University_of_Technology	Amirkabir University of Technology
+462	http://dbpedia.org/resource/National_Chiao_Tung_University	National Chiao Tung University
+463	http://dbpedia.org/resource/University_of_Zaragoza	University of Zaragoza
+464	http://dbpedia.org/resource/Zhejiang_University	Zhejiang University
+465	http://dbpedia.org/resource/Tianjin_University	Tianjin University
+466	http://dbpedia.org/resource/La_Trobe_University	La Trobe University
+467	http://dbpedia.org/resource/University_of_Arkansas	University of Arkansas, Fayetteville
+468	http://dbpedia.org/resource/Zhejiang_Normal_University	Zhejiang Normal University
+469	http://dbpedia.org/resource/Wuhan_University	Wuhan University
+470	http://dbpedia.org/resource/Southwestern_University_of_Finance_and_Economics	Southwest University
+471	http://dbpedia.org/resource/Beihang_University	Beihang University
+472	http://dbpedia.org/resource/University_of_Mississippi	University of Mississippi
+473	http://dbpedia.org/resource/University_of_Alicante	University of Alicante
+474	http://dbpedia.org/resource/University_of_Pisa	University of Pisa
+475	http://dbpedia.org/resource/University_of_Oulu	University of Oulu
+476	http://dbpedia.org/resource/Technical_University_of_Dortmund	Technische UniversitÌ_t Dortmund
+477	http://dbpedia.org/resource/University_of_Missouri%E2%80%93Kansas_City	University of Missouri, Kansas City
+478	http://dbpedia.org/resource/Queensland_University_of_Technology	Queensland University of Technology
+479	http://dbpedia.org/resource/Osaka_University	Osaka University
+480	http://dbpedia.org/resource/Jilin_University	Jilin University
+481	http://dbpedia.org/resource/Stellenbosch_University	Stellenbosch University
+482	http://dbpedia.org/resource/University_of_Tampere	University of Tampere
+483	http://dbpedia.org/resource/Brigham_Young_University	Brigham Young University
+484	http://dbpedia.org/resource/Nagoya_University	Nagoya University
+485	http://dbpedia.org/resource/University_of_Nantes	University of Nantes
+486	http://dbpedia.org/resource/Seconda_Universit%C3%A0_degli_Studi_di_Napoli	Second University of Naples
+487	http://dbpedia.org/resource/Shanghai_Jiao_Tong_University	Shanghai Jiao Tong University
+488	http://dbpedia.org/resource/Ohio_University	Ohio University
+489	http://dbpedia.org/resource/Universit%C3%A0_Cattolica_del_Sacro_Cuore	Universita Cattolica del Sacro Cuore
+490	http://dbpedia.org/resource/Polytechnic_University_of_Catalonia	Universitat PolitÌ¬cnica de Catalunya
+491	http://dbpedia.org/resource/University_of_Alabama	University of Alabama, Tuscaloosa
+492	http://dbpedia.org/resource/University_of_Tabriz	University of Tabriz
+493	http://dbpedia.org/resource/University_of_Seville	University of Seville
+494	http://dbpedia.org/resource/University_of_Modena_and_Reggio_Emilia	University of Modena and Reggio Emilia
+495	http://dbpedia.org/resource/West_Virginia_University	West Virginia University
+496	http://dbpedia.org/resource/Complutense_University_of_Madrid	Complutense University
+497	http://dbpedia.org/resource/Oklahoma_State_University%E2%80%93Stillwater	Oklahoma State University - Stillwater
+498	http://dbpedia.org/resource/University_of_Catania	University of Catania
+499	http://dbpedia.org/resource/Tel_Aviv_University	Tel Aviv University
+500	http://dbpedia.org/resource/Sapienza_University_of_Rome	Sapienza University of Rome
+501	http://dbpedia.org/resource/Istanbul_Technical_University	Istanbul Technical University
+502	http://dbpedia.org/resource/University_of_Cantabria	University of Cantabria
+503	http://dbpedia.org/resource/Bar-Ilan_University	Bar-Ilan University
+504	http://dbpedia.org/resource/Indian_Institute_of_Technology_Delhi	Indian Institute of Technology Delhi
+505	http://dbpedia.org/resource/University_of_Genoa	University of Genoa
+506	http://dbpedia.org/resource/Aristotle_University_of_Thessaloniki	Aristotle University of Thessaloniki
+507	http://dbpedia.org/resource/University_of_Coimbra	University of Lisbon
+508	http://dbpedia.org/resource/University_of_Naples_Federico_II	University of Naples Federico II
+509	http://dbpedia.org/resource/University_of_North_Carolina_at_Charlotte	University of North Carolina, Charlotte
+510	http://dbpedia.org/resource/Nanjing_Normal_University	Nanjing Normal University
+511	http://dbpedia.org/resource/University_of_Tartu	University of Tartu
+512	http://dbpedia.org/resource/National_Taiwan_University	National Taiwan University
+513	http://dbpedia.org/resource/University_of_Coimbra	University of Coimbra
+514	http://dbpedia.org/resource/Victoria_University_of_Wellington	Victoria University of Wellington
+515	http://dbpedia.org/resource/University_of_Rome_Tor_Vergata	University of Rome Tor Vergata
+516	http://dbpedia.org/resource/China_University_of_Geosciences	China University of Geosciences
+517	http://dbpedia.org/resource/Texas_Tech_University	Texas Tech University
+518	http://dbpedia.org/resource/Isfahan_University_of_Technology	Isfahan University of Technology
+519	http://dbpedia.org/resource/Flinders_University	Flinders University
+520	http://dbpedia.org/resource/Seoul_National_University	Seoul National University
+521	http://dbpedia.org/resource/Indian_Institute_of_Technology_Guwahati	Indian Institute of Technology Guwahati
+522	http://dbpedia.org/resource/University_of_Canterbury	University of Canterbury
+523	http://dbpedia.org/resource/Mediterranea_University_of_Reggio_Calabria	Mediterranea University of Reggio Calabria
+524	http://dbpedia.org/resource/South_China_Normal_University	South China Normal University
+525	http://dbpedia.org/resource/National_University_of_Defense_Technology	National University of Defense Technology
+526	http://dbpedia.org/resource/Iran_University_of_Science_and_Technology	Iran University of Science and Technology
+527	http://dbpedia.org/resource/University_of_Windsor	University of Windsor
+528	http://dbpedia.org/resource/East_Carolina_University	East Carolina University
+529	http://dbpedia.org/resource/University_of_North_Texas	University of North Texas
+530	http://dbpedia.org/resource/Technical_University_of_Madrid	Technical University of Madrid
+531	http://dbpedia.org/resource/University_of_Electronic_Science_and_Technology_of_China	University of Electronic Science and Technology of China - UESTC
+532	http://dbpedia.org/resource/Huazhong_University_of_Science_and_Technology	Huazhong University of Science and Technology
+533	http://dbpedia.org/resource/Auburn_University	Auburn University
+534	http://dbpedia.org/resource/University_of_the_Basque_Country	University of the Basque Country
+535	http://dbpedia.org/resource/Universiti_Sains_Malaysia	University of Science Malaysia
+536	http://dbpedia.org/resource/University_of_Bari	University of Bari Aldo Moro
+537	http://dbpedia.org/resource/Chongqing_University	Chongqing University
+538	http://dbpedia.org/resource/Sharif_University_of_Technology	Sharif University of Technology
+539	http://dbpedia.org/resource/University_of_Franche-Comt%C3%A9	University of Franche-ComtÌ©
+540	http://dbpedia.org/resource/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University	EÌ_tvÌ_s LorÌÁnd University
+541	http://dbpedia.org/resource/Semmelweis_University	Semmelweis University of Budapest
+542	http://dbpedia.org/resource/National_Chung_Hsing_University	National Chung Hsing University
+543	http://dbpedia.org/resource/KAIST	Advanced Institute of Science and Technology
+544	http://dbpedia.org/resource/University_of_Ljubljana	University of Ljubljana
+545	http://dbpedia.org/resource/Ben-Gurion_University_of_the_Negev	Ben-Gurion University of Negev
+546	http://dbpedia.org/resource/Shandong_University	Shandong University
+547	http://dbpedia.org/resource/Nanjing_Agricultural_University	Nanjing Agricultural University
+548	http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens	National and Kapodistrian University of Athens
+549	http://dbpedia.org/resource/Ryerson_University	Ryerson University
+550	http://dbpedia.org/resource/University_of_Nevada,_Las_Vegas	University of Nevada, Las Vegas
+551	http://dbpedia.org/resource/Sichuan_University	Sichuan University
+552	http://dbpedia.org/resource/University_of_Salamanca	University of Salamanca
+553	http://dbpedia.org/resource/University_of_Science_and_Technology_Beijing	University of Science and Technology Beijing
+554	http://dbpedia.org/resource/Chung_Yuan_Christian_University	Chung Yuan Christian University
+555	http://dbpedia.org/resource/University_of_La_Laguna	University of La Laguna
+556	http://dbpedia.org/resource/Zhejiang_University_of_Technology	Zhejiang University of Technology
+557	http://dbpedia.org/resource/King_Saud_University	King Saud University
+558	http://dbpedia.org/resource/Beijing_Jiaotong_University	Beijing Jiatong University
+559	http://dbpedia.org/resource/Second_Military_Medical_University	Second Military Medical University - SMMU
+560	http://dbpedia.org/resource/Tokyo_Medical_and_Dental_University	Tokyo Medical and Dental University
+561	http://dbpedia.org/resource/Budapest_University_of_Technology_and_Economics	Budapest University of Technology and Economics
+562	http://dbpedia.org/resource/American_University_of_Beirut	American University of Beirut
+563	http://dbpedia.org/resource/University_of_Murcia	University of Murcia
+564	http://dbpedia.org/resource/National_University_of_Malaysia	Universiti Kebangsaan Malaysia
+565	http://dbpedia.org/resource/Georgia_State_University	Georgia State University
+566	http://dbpedia.org/resource/University_of_Tehran	University of Tehran
+567	http://dbpedia.org/resource/National_Taiwan_University_of_Science_and_Technology	National Taiwan University of Science & Technology
+568	http://dbpedia.org/resource/China_Agricultural_University	China Agricultural University
+569	http://dbpedia.org/resource/Sungkyunkwan_University	Sungkyunkwan University
+570	http://dbpedia.org/resource/Middle_East_Technical_University	Middle East Technical University
+571	http://dbpedia.org/resource/University_of_Ulsan	University of Ulsan
+572	http://dbpedia.org/resource/Huazhong_Agricultural_University	Huazhong Agricultural University
+573	http://dbpedia.org/resource/Xiangtan_University	Xiangtan University
+574	http://dbpedia.org/resource/Banaras_Hindu_University	Banaras Hindu University
+575	http://dbpedia.org/resource/University_of_the_Witwatersrand	University of the Witwatersrand
+576	http://dbpedia.org/resource/University_of_the_Punjab	Panjab University
+577	http://dbpedia.org/resource/Fourth_Military_Medical_University	Fourth Military Medical University
+578	http://dbpedia.org/resource/University_of_Saskatchewan	University of Saskatchewan
+579	http://dbpedia.org/resource/Tohoku_University	Tohoku University
+580	http://dbpedia.org/resource/Yonsei_University	Yonsei University
+581	http://dbpedia.org/resource/Mansoura_University	Mansoura University
+582	http://dbpedia.org/resource/University_of_Palermo	University of Palermo
+583	http://dbpedia.org/resource/University_of_Messina	University of Messina
+584	http://dbpedia.org/resource/Anna_University	Anna University
+585	http://dbpedia.org/resource/Jiangsu_University	Jiangsu University
+586	http://dbpedia.org/resource/Central_South_University	Central South University
+587	http://dbpedia.org/resource/University_of_Siena	University of Siena
+588	http://dbpedia.org/resource/University_of_Patras	University of Patras
+589	http://dbpedia.org/resource/University_of_Oviedo	University of Oviedo
+590	http://dbpedia.org/resource/Indian_Institute_of_Science	Indian Institute of Science
+591	http://dbpedia.org/resource/Erciyes_University	Erciyes University
+592	http://dbpedia.org/resource/University_of_New_Brunswick	University of New Brunswick
+593	http://dbpedia.org/resource/Northwestern_Polytechnical_University	Northwestern Polytechnical University
+594	http://dbpedia.org/resource/University_of_Cagliari	University of Cagliari
+595	http://dbpedia.org/resource/China_Medical_University_(Taiwan)	China Medical University, Taiwan
+596	http://dbpedia.org/resource/University_of_Warsaw	University of Warsaw
+597	http://dbpedia.org/resource/Kyung_Hee_University	Kyung Hee University
+598	http://dbpedia.org/resource/Indian_Institute_of_Technology_Kharagpur	Indian Institute of Technology Kharagpur
+599	http://dbpedia.org/resource/Tokyo_Institute_of_Technology	Tokyo Institute of Technology
+600	http://dbpedia.org/resource/Gyeongsang_National_University	Gyeongsang National University
+601	http://dbpedia.org/resource/Indian_Institute_of_Technology_Madras	Indian Institute of Technology Madras
+602	http://dbpedia.org/resource/University_of_Puerto_Rico	University of Puerto Rico
+603	http://dbpedia.org/resource/Southern_Illinois_University_Carbondale	Southern Illinois University, Carbondale
+604	http://dbpedia.org/resource/Kanazawa_University	Kanazawa University
+605	http://dbpedia.org/resource/National_Taipei_University_of_Technology	National Taipei University of Technology
+606	http://dbpedia.org/resource/Tongji_University	Tongji University
+607	http://dbpedia.org/resource/Pontifical_Catholic_University_of_Chile	Pontifical Catholic University of Chile
+608	http://dbpedia.org/resource/University_of_Chile	University of Chile
+609	http://dbpedia.org/resource/National_Cheng_Kung_University	National Cheng Kung University
+610	http://dbpedia.org/resource/Pukyong_National_University	Pukyong National University
+611	http://dbpedia.org/resource/Nanjing_University	National Central University
+612	http://dbpedia.org/resource/North_Dakota_State_University	North Dakota State University
+613	http://dbpedia.org/resource/University_of_Castile-La_Mancha	University of Castile-La Mancha
+614	http://dbpedia.org/resource/Xi'an_Jiaotong_University	Xi'an Jiaotong University
+615	http://dbpedia.org/resource/Tokyo_University_of_Science	Tokyo University of Science
+616	http://dbpedia.org/resource/Inha_University	Inha University
+617	http://dbpedia.org/resource/Shahid_Beheshti_University	Shahid Beheshti University
+618	http://dbpedia.org/resource/Keio_University	Keio University
+619	http://dbpedia.org/resource/Korea_University	Korea University
+620	http://dbpedia.org/resource/Tarbiat_Modares_University	Tarbiat Modares University
+621	http://dbpedia.org/resource/Indian_Institute_of_Technology_Bombay	Indian Institute of Technology Bombay
+622	http://dbpedia.org/resource/Beijing_University_of_Technology	Beijing University of Technology
+623	http://dbpedia.org/resource/University_of_Haifa	University of Haifa
+624	http://dbpedia.org/resource/Wroc%C5%82aw_University_of_Technology	WrocÅâaw University of Technology
+625	http://dbpedia.org/resource/University_of_Delhi	University of Delhi
+626	http://dbpedia.org/resource/Yokohama_City_University	Yokohama City University
+627	http://dbpedia.org/resource/Ocean_University_of_China	Ocean University of China
+628	http://dbpedia.org/resource/Chungbuk_National_University	Chungbuk National University
+629	http://dbpedia.org/resource/Aligarh_Muslim_University	Aligarh Muslim University
+630	http://dbpedia.org/resource/Nanchang_University	Nanchang University
+631	http://dbpedia.org/resource/Palack%C3%BD_University_of_Olomouc	PalackÌ_ University of Olomouc
+632	http://dbpedia.org/resource/National_Yang_Ming_University	National Yang Ming University
+633	http://dbpedia.org/resource/Nanjing_University_of_Technology	Nanjing University of Technology
+634	http://dbpedia.org/resource/Chiba_University	Chiba University
+635	http://dbpedia.org/resource/Jadavpur_University	Jadavpur University
+636	http://dbpedia.org/resource/Kobe_University	Kobe University
+637	http://dbpedia.org/resource/Universiti_Putra_Malaysia	Putra University Malaysa
+638	http://dbpedia.org/resource/Hanyang_University	Hanyang University
+639	http://dbpedia.org/resource/Kyushu_University	Kyushu University
+640	http://dbpedia.org/resource/Shaanxi_Normal_University	Shaanxi Normal University
+641	http://dbpedia.org/resource/Taipei_Medical_University	Taipei Medical University
+642	http://dbpedia.org/resource/Mississippi_State_University	Mississippi State University
+643	http://dbpedia.org/resource/University_of_KwaZulu-Natal	University of KwaZulu-Natal
+644	http://dbpedia.org/resource/University_of_Extremadura	University of Extremadura
+645	http://dbpedia.org/resource/University_of_Malaya	University of Malaya
+646	http://dbpedia.org/resource/University_of_Tsukuba	University of Tsukuba
+647	http://dbpedia.org/resource/Mahidol_University	Mahidol University
+648	http://dbpedia.org/resource/Federal_University_of_Rio_de_Janeiro	Federal University of Rio de Janeiro - UFRJ
+649	http://dbpedia.org/resource/Universidade_Federal_de_Santa_Catarina	Federal University of Santa Catarina - UFSC
+650	http://dbpedia.org/resource/Federal_University_of_Cear%C3%A1	Federal University of CearÌÁ - UFC
+651	http://dbpedia.org/resource/China_Pharmaceutical_University	China Pharmaceutical University
+652	http://dbpedia.org/resource/Indian_Institute_of_Technology_Kanpur	Indian Institute of Technology Kanpur
+653	http://dbpedia.org/resource/University_of_Valladolid	University of Valladolid
+654	http://dbpedia.org/resource/Sel%C3%A7uk_University	SelÌ_uk University
+655	http://dbpedia.org/resource/Nicolaus_Copernicus_University_in_Toru%C5%84	Nicholas Copernicus University of Torun
+656	http://dbpedia.org/resource/Hokkaido_University	Hokkaido University
+657	http://dbpedia.org/resource/Chulalongkorn_University	Chulalongkorn University
+658	http://dbpedia.org/resource/Chang_Gung_University	Chang Gung University
+659	http://dbpedia.org/resource/Masaryk_University	Masaryk University, Brno
+660	http://dbpedia.org/resource/Alexandria_University	Alexandria University
+661	http://dbpedia.org/resource/National_Chung_Cheng_University	Taiwan Chung Cheng University
+662	http://dbpedia.org/resource/Hiroshima_University	Hiroshima University
+663	http://dbpedia.org/resource/King_Fahd_University_of_Petroleum_and_Minerals	King Fahd University of Petroleum and Minerals
+664	http://dbpedia.org/resource/Zhengzhou_University	Zhengzhou University
+665	http://dbpedia.org/resource/Gazi_University	Gazi University
+666	http://dbpedia.org/resource/Ajou_University	Ajou University
+667	http://dbpedia.org/resource/Jagiellonian_University	Jagiellonian University, Krakow
+668	http://dbpedia.org/resource/National_Sun_Yat-sen_University	National Sun-Yat Sen University
+669	http://dbpedia.org/resource/Ferdowsi_University_of_Mashhad	Ferdowsi University of Mashhad
+670	http://dbpedia.org/resource/Nanjing_Medical_University	Nanjing Medical University
+671	http://dbpedia.org/resource/Kinki_University	Kinki University
+672	http://dbpedia.org/resource/Kaohsiung_Medical_University	Kaohsiung Medical University
+673	http://dbpedia.org/resource/Jinan_University	Jinan University
+674	http://dbpedia.org/resource/Okayama_University	Okayama University
+675	http://dbpedia.org/resource/Dokuz_Eyl%C3%BCl_University	Dokuz EylÌ_l University
+676	http://dbpedia.org/resource/North_West_Agriculture_and_Forestry_University	Northwest Agriculture & Forestry University
+677	http://dbpedia.org/resource/Shiraz_University	Shiraz University
+678	http://dbpedia.org/resource/University_of_S%C3%A3o_Paulo	Universidade de SÌ£o Paulo - USP
+679	http://dbpedia.org/resource/Waseda_University	Waseda University
+680	http://dbpedia.org/resource/Kyungpook_National_University	Kyungpook National University
+681	http://dbpedia.org/resource/University_of_Buenos_Aires	University of Buenos Aires
+682	http://dbpedia.org/resource/Juntendo_University	Juntendo University
+683	http://dbpedia.org/resource/University_of_Pretoria	University of Pretoria
+684	http://dbpedia.org/resource/Kumamoto_University	Kumamoto University
+685	http://dbpedia.org/resource/Konkuk_University	Konkuk University
+686	http://dbpedia.org/resource/Chiang_Mai_University	Chiang Mai University
+687	http://dbpedia.org/resource/China_Medical_University_(PRC)	China Medical University
+688	http://dbpedia.org/resource/Universidade_Federal_de_Minas_Gerais	Universidade Federal de Minas Gerais - UFMG
+689	http://dbpedia.org/resource/Universidade_Federal_do_Rio_Grande_do_Sul	Federal University of Rio Grande do Sul - UFRGS
+690	http://dbpedia.org/resource/Federal_University_of_Pernambuco	Federal University of Pernambuco - UFPE
+691	http://dbpedia.org/resource/Federal_University_of_S%C3%A3o_Carlos	Federal University of SÌ£o Carlos - UFSCAR
+692	http://dbpedia.org/resource/Chongqing_Medical_University	Chongqing Medical University
+693	http://dbpedia.org/resource/Charles_University_in_Prague	Charles University, Prague
+694	http://dbpedia.org/resource/Chonbuk_National_University	Chonbuk National University
+695	http://dbpedia.org/resource/Sogang_University	Sogang University
+696	http://dbpedia.org/resource/Pusan_National_University	Pusan National University
+697	http://dbpedia.org/resource/Moscow_State_University	Lomonosov Moscow State University
+698	http://dbpedia.org/resource/University_of_Debrecen	University of Debrecen
+699	http://dbpedia.org/resource/Comenius_University_in_Bratislava	Comenius University, Bratislava
+700	http://dbpedia.org/resource/Southern_Medical_University	Southern Medical University
+701	http://dbpedia.org/resource/University_of_Toyama	University of Toyama
+702	http://dbpedia.org/resource/Gunma_University	Gunma University
+703	http://dbpedia.org/resource/Islamic_Azad_University	Islamic Azad University
+704	http://dbpedia.org/resource/Universidade_Estadual_de_Campinas	State University of Campinas - UNICAMP
+705	http://dbpedia.org/resource/Chungnam_National_University	Chungnam National University
+706	http://dbpedia.org/resource/Universidade_Federal_de_S%C3%A3o_Paulo	Federal University of SÌ£o Paulo - UNIFESP
+707	http://dbpedia.org/resource/University_of_Szeged	University of Szeged
+708	http://dbpedia.org/resource/Federal_University_of_Paran%C3%A1	Federal University of ParanÌÁ - UFPR
+709	http://dbpedia.org/resource/National_University_of_La_Plata	National University of La Plata
+710	http://dbpedia.org/resource/Osaka_City_University	Osaka City University
+711	http://dbpedia.org/resource/Ain_Shams_University	Ain Shams University
+712	http://dbpedia.org/resource/Warsaw_University_of_Technology	Warsaw University of Technology
+713	http://dbpedia.org/resource/University_of_Bras%C3%ADlia	University of BrasÌ_lia - UNB
+714	http://dbpedia.org/resource/National_Autonomous_University_of_Mexico	National Autonomous University of Mexico
+715	http://dbpedia.org/resource/National_University_of_C%C3%B3rdoba	National University of Cordoba
+716	http://dbpedia.org/resource/Hacettepe_University	Hacettepe University
+717	http://dbpedia.org/resource/Third_Military_Medical_University	Third Military Medical University
+718	http://dbpedia.org/resource/Ege_University	Ege University
+719	http://dbpedia.org/resource/University_of_Sfax	University of Sfax
+720	http://dbpedia.org/resource/Kitasato_University	Kitasato University
+721	http://dbpedia.org/resource/Chonnam_National_University	Chonnam National University
+722	http://dbpedia.org/resource/Peking_Union_Medical_College_Hospital	Peking Union Medical College
+723	http://dbpedia.org/resource/University_of_Belgrade	University of Belgrade
+724	http://dbpedia.org/resource/Shinshu_University	Shinshu University
+725	http://dbpedia.org/resource/Cairo_University	Cairo University
+726	http://dbpedia.org/resource/Ehime_University	Ehime University
+727	http://dbpedia.org/resource/AGH_University_of_Science_and_Technology	AGH University of Science and Technology
+728	http://dbpedia.org/resource/Atat%C3%BCrk_University	AtatÌ_rk University
+729	http://dbpedia.org/resource/The_Catholic_University_of_Korea	Catholic University of Korea
+730	http://dbpedia.org/resource/Wroclaw_University_of_Environmental_and_Life_Sciences	University of WrocÅâaw
+731	http://dbpedia.org/resource/Nagasaki_University	Nagasaki University
+732	http://dbpedia.org/resource/Capital_University_of_Medical_Sciences	Capital Medical University
+733	http://dbpedia.org/resource/University_of_Zagreb	University of Zagreb
+734	http://dbpedia.org/resource/Kangwon_National_University	Kangwon National University
+735	http://dbpedia.org/resource/University_of_Tokushima	University of Tokushima
+736	http://dbpedia.org/resource/Istanbul_University	Istanbul University
+737	http://dbpedia.org/resource/Tokyo_University_of_Agriculture_and_Technology	Tokyo University of Agriculture and Technology
+738	http://dbpedia.org/resource/Niigata_University	Niigata University
+739	http://dbpedia.org/resource/Chung-Ang_University	Chung Ang University
+740	http://dbpedia.org/resource/Osaka_Prefecture_University	Osaka Prefecture University
+741	http://dbpedia.org/resource/Adam_Mickiewicz_University_in_Pozna%C5%84	Adam Mickiewicz University, PoznaÅã
+742	http://dbpedia.org/resource/Gifu_University	Gifu University
+743	http://dbpedia.org/resource/Universidade_Estadual_Paulista_J%C3%BAlio_de_Mesquita_Filho	Universidade Estadual Paulista - UNESP
+744	http://dbpedia.org/resource/All_India_Institute_of_Medical_Sciences	All India Institute of Medical Science
+745	http://dbpedia.org/resource/Post_Graduate_Institute_of_Medical_Education_and_Research	Postgraduate Institute of Medical Education & Research
+746	http://dbpedia.org/resource/Tehran_University_of_Medical_Sciences	Tehran University of Medical Sciences
+747	http://dbpedia.org/resource/Nihon_University	Nihon University
+748	http://dbpedia.org/resource/Kagoshima_University	Kagoshima University
+749	http://dbpedia.org/resource/Yamaguchi_University	Yamaguchi University
+750	http://dbpedia.org/resource/Ankara_University	Ankara University
+2	http://dbpedia.org/resource/MIT_Sloan_School_of_Management	MIT Sloan
+3	http://dbpedia.org/resource/Berkman_Center_for_Internet_&_Society	Berkman Center
+3	http://dbpedia.org/resource/Harvard_College	Harvard College
+3	http://dbpedia.org/resource/Harvard_kennedy_school	Harvard Kennedy School
+3	http://dbpedia.org/resource/Harvard_Law_School	Harvard Law School
+3	http://dbpedia.org/resource/Harvard_Medical_School	Harvard Medical School
+3	http://dbpedia.org/resource/Harvard_School_of_Public_Health	Harvard School of Public Health
+3	http://dbpedia.org/resource/John_F._Kennedy_School_of_Government	Kennedy School of Government
+6	http://dbpedia.org/resource/Stanford_Graduate_School_of_Business	Stanford Graduate School of Business
+10	http://dbpedia.org/resource/Berkeley_Divinity_School	Yale University Divinity School
+10	http://dbpedia.org/resource/Yale_School_of_Medicine	Yale University School of Medicine
+17	http://dbpedia.org/resource/Perelman_School_of_Medicine_at_the_University_of_Pennsylvania	University of Pennsylvania School of Medicine
+17	http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania	Wharton Business School
+19	http://dbpedia.org/resource/Christ's_College,_Cambridge	Christ's College Cambridge
+19	http://dbpedia.org/resource/Churchill_College_Cambridge	Churchill College Cambridge
+19	http://dbpedia.org/resource/Clare_College,_Cambridge	Clare College
+19	http://dbpedia.org/resource/Clare_Hall,_Cambridge	Clare Hall
+19	http://dbpedia.org/resource/Darwin_College,_Cambridge	Darwin College
+19	http://dbpedia.org/resource/Downing_College,_Cambridge	Downing College
+19	http://dbpedia.org/resource/Emmanuel_College,_Cambridge	Emmanuel College
+19	http://dbpedia.org/resource/Fitzwilliam_College,_Cambridge	Fitzwilliam College Cambridge
+19	http://dbpedia.org/resource/Jesus_College,_Cambridge	Jesus College
+19	http://dbpedia.org/resource/King's_College,_Cambridge	King's College Cambridge
+19	http://dbpedia.org/resource/Pembroke_College,_Cambridge	Pembroke College
+19	http://dbpedia.org/resource/Peterhouse,_Cambridge	Peterhouse College
+19	http://dbpedia.org/resource/Selwyn_College,_Cambridge	Selwyn College
+19	http://dbpedia.org/resource/Fordham_University	St. John's College
+19	http://dbpedia.org/resource/Trinity_College,_Cambridge	Trinity College
+19	http://dbpedia.org/resource/Trinity_Hall,_University_of_Cambridge	Trinity Hall University of Cambridge
+19	http://dbpedia.org/resource/Wolfson_College,_Oxford	Wolfson College
+22	http://dbpedia.org/resource/Queen's_University_Belfast	Queens College
+23	http://dbpedia.org/resource/London_School_of_Hygiene_&_Tropical_Medicine	London School of Hygiene & Tropical Medicine
+24	http://dbpedia.org/resource/All_Souls_College,_Oxford	All Souls College
+24	http://dbpedia.org/resource/All_Souls_College,_Oxford	All Souls College Oxford
+24	http://dbpedia.org/resource/Balliol_College,_Oxford	Balliol College
+24	http://dbpedia.org/resource/Christ_Church,_Oxford	Christ Church Oxford University
+24	http://dbpedia.org/resource/Churchill_College,_Cambridge	Churchill College
+24	http://dbpedia.org/resource/Corpus_Christi_College,_Cambridge	Corpus Christi College
+24	http://dbpedia.org/resource/Corpus_Christi_College,_Oxford	Corpus Christi College Oxford
+24	http://dbpedia.org/resource/Exeter_College,_Oxford	Exeter College
+24	http://dbpedia.org/resource/Exeter_College,_Oxford	Exeter College Oxford
+24	http://dbpedia.org/resource/Green_College,_Oxford	Green College University of Oxford
+24	http://dbpedia.org/resource/Jesus_College,_Oxford	Jesus College Oxford
+24	http://dbpedia.org/resource/Lady_Margaret_Hall,_Oxford	Lady Margaret Hall
+24	http://dbpedia.org/resource/Linacre_College,_Oxford	Linacre College
+24	http://dbpedia.org/resource/Linacre_College,_Oxford	Linacre College Oxford
+24	http://dbpedia.org/resource/Lincoln_College,_Oxford	Lincoln College Oxford
+24	http://dbpedia.org/resource/Mansfield_College,_Oxford	Mansfield College
+24	http://dbpedia.org/resource/New_College,_Oxford	New College Oxford
+24	http://dbpedia.org/resource/Newnham_College,_Cambridge	Newnham College
+24	http://dbpedia.org/resource/Nuffield_College,_Oxford	Nuffield College
+24	http://dbpedia.org/resource/Oriel_College,_Oxford	Oriel College Oxford
+24	http://dbpedia.org/resource/Rutgers_University	Queen's College
+24	http://dbpedia.org/resource/The_Queen's_College,_Oxford	Queen's College Oxford
+24	http://dbpedia.org/resource/Somerville_College,_Oxford	Somerville College
+24	http://dbpedia.org/resource/Universite _Sainte-Anne	St Anne's College
+24	http://dbpedia.org/resource/St_Antony's_College,_Oxford	St Antony's College
+24	http://dbpedia.org/resource/St_Edmund_Hall,_Oxford	St Edmund Hall
+24	http://dbpedia.org/resource/St_Edmund_Hall,_Oxford	St Edmund Hall Oxford
+24	http://dbpedia.org/resource/St_Hilda's_College,_Oxford	St Hilda's College Oxford
+24	http://dbpedia.org/resource/St_Hugh's_College,_Oxford	St Hugh's College
+24	http://dbpedia.org/resource/St_Hugh's_College,_Oxford	St Hugh's College Oxford
+24	http://dbpedia.org/resource/St_Antony's_College,_Oxford	St. Antony's College
+24	http://dbpedia.org/resource/St_Catherine's_College,_Oxford	St. Catherine's College Oxford
+24	http://dbpedia.org/resource/Trinity_College,_Oxford	Trinity College Oxford
+24	http://dbpedia.org/resource/University_College,_Oxford	University College Oxford
+24	http://dbpedia.org/resource/Wadham_College,_Oxford	Wadham College
+24	http://dbpedia.org/resource/Wadham_College,_Oxford	Wadham College Oxford
+24	http://dbpedia.org/resource/Wolfson_College,_Oxford	Wolfson College Oxford
+24	http://dbpedia.org/resource/Worcester_College,_Oxford	Worcester College Oxford University
+24	http://dbpedia.org/resource/Wycliffe_Hall,_Oxford	Wycliffe Hall Oxford
+24	http://dbpedia.org/resource/Magdalen_College,_Oxford	Magdalene College
+24	http://dbpedia.org/resource/St_Catharine's_College,_Cambridge	St Catherine's College
+26	http://dbpedia.org/resource/Columbia_Law_School	Columbia Law School
+27	http://dbpedia.org/resource/Johns_Hopkins_Bloomberg_School_of_Public_Health	Bloomberg School of Public Health
+27	http://dbpedia.org/resource/Johns_Hopkins_Bloomberg_School_of_Public_Health	Johns Hopkins Bloomberg School of Public Health
+27	http://dbpedia.org/resource/Johns_Hopkins_School_of_Medicine	Johns Hopkins School of Medicine
+27	http://dbpedia.org/resource/Johns_Hopkins_Bloomberg_School_of_Public_Health	Johns Hopkins School of Public Health
+27	http://dbpedia.org/resource/Johns_Hopkins_Hospital	Johns Hopkins University School of Medicine
+27	http://dbpedia.org/resource/University_of_California	Universities of California
+27	http://dbpedia.org/resource/University_of_California,_Berkeley	University of California
+28	http://dbpedia.org/resource/Washington_University_School_of_Medicine	Washington University School of Medicine
+32	http://dbpedia.org/resource/Cornell_College	Cornell College
+35	http://dbpedia.org/resource/Courant_Institute_of_Mathematical_Sciences	Courant Institute
+35	http://dbpedia.org/resource/Courant_Institute_of_Mathematical_Sciences	Courant Institute of Mathematical Sciences
+35	http://dbpedia.org/resource/New_York_University_School_of_Medicine	New York University School of Medicine
+35	http://dbpedia.org/resource/New_York_University_Stern_School_of_Business	Stern School of Business
+36	http://dbpedia.org/resource/Catherine_of_Alexandria	Mount Sinai
+36	http://dbpedia.org/resource/Mount_Sinai_School_of_Medicine	Mount Sinai Medical School
+36	http://dbpedia.org/resource/Mount_Sinai_School_of_Medicine	Mount Sinai School of Medicine
+37	http://dbpedia.org/resource/Boston_University_School_of_Medicine	Boston University School of Medicine
+37	http://dbpedia.org/resource/University_of_Massachusetts_Amherst	Massachusetts University
+37	http://dbpedia.org/resource/University_of_Massachusetts_Amherst	University of Massachusetts
+37	http://dbpedia.org/resource/University_of_Massachusetts_Boston	University of Massachusetts Boston
+43	http://dbpedia.org/resource/McCombs_School_of_Business	McCombs School of Business
+45	http://dbpedia.org/resource/Columbia_University	King's College
+45	http://dbpedia.org/resource/King's_College_London	King's College London
+45	http://dbpedia.org/resource/King's_College_London	King's College London
+48	http://dbpedia.org/resource/Amherst_College	Amherst College
+66	http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center	University of Pittsburgh Medical Center
+67	http://dbpedia.org/resource/ETH_Zurich	University of Zurich
+78	http://dbpedia.org/resource/York_University	University of York
+81	http://dbpedia.org/resource/Centrum_Wiskunde_&_Informatica	Centrum Wiskunde & Informatica
+85	http://dbpedia.org/resource/Rotterdam_School_of_Management	Rotterdam School of Management
+87	http://dbpedia.org/resource/Rotman_School_of_Management	Rotman School of Management
+132	http://dbpedia.org/resource/Indiana_University	Indiana University
+171	http://dbpedia.org/resource/Mines_ParisTech	Ecole des Mines de Paris
+171	http://dbpedia.org/resource/ETH_Zurich	Ecole Polytechnique
+205	http://dbpedia.org/resource/University_College_Cork	National University of Ireland
+248	http://dbpedia.org/resource/University_of_Lyon	Lyon University
+292	http://dbpedia.org/resource/Queen's_University_Belfast	Queens University of Belfast
+324	http://dbpedia.org/resource/Queen's_University	Queen's University
+324	http://dbpedia.org/resource/Queen's_University	Queen's University Canada
+324	http://dbpedia.org/resource/Queen's_University	Queens University
+407	http://dbpedia.org/resource/Technion	Technion - Israel Institute of Technology
+436	http://dbpedia.org/resource/University_of_Porto	Porto University
+436	http://dbpedia.org/resource/University_of_Porto	Universidade do Porto
+436	http://dbpedia.org/resource/University_of_Puerto_Rico	University of Porto
+507	http://dbpedia.org/resource/University_of_Lisbon	Lisbon University
+507	http://dbpedia.org/resource/University_of_Lisbon	Universidade de Lisboa
+507	http://dbpedia.org/resource/University_of_Coimbra	University of Lisbon
+509	http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill	University of North Carolina
+741	http://dbpedia.org/resource/Adam_Mickiewicz_University_in_Poznan	Adam Mickiewicz University
+246	http://dbpedia.org/resource/Belgian_Institute_for_Space_Aeronomy	INSTITUT D'AERONOMIE SPATIALE DE BELGIQUE
+151	http://dbpedia.org/resource/IMEC	INTERUNIVERSITAIR MICRO-ELECTRONICACENTRUM IMEC VZW
+246	http://dbpedia.org/resource/Flanders_Marine_Institute	VLAAMS INSTITUUT VOOR DE ZEE VZW
+246	http://dbpedia.org/resource/Flemish_Institute_for_Technological_Research	VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.
+200	http://dbpedia.org/resource/Alfred_Wegener_Institute_for_Polar_and_Marine_Research	ALFRED-WEGENER-INSTITUT HELMHOLTZ- ZENTRUM FUER POLAR- UND MEERESFORSCHUNG
+111	http://dbpedia.org/resource/German_Research_Centre_for_Artificial_Intelligence	DEUTSCHES FORSCHUNGSZENTRUM FUER KUENSTLICHE INTELLIGENZ GMBH
+152	http://dbpedia.org/resource/German_Aerospace_Center	DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV
+280	http://dbpedia.org/resource/Forschungszentrum_J%C3%BClich	FORSCHUNGSZENTRUM JUELICH GMBH
+280	http://dbpedia.org/resource/Fraunhofer_Society	FRAUNHOFER-GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V
+200	http://dbpedia.org/resource/Helmholtz_Centre_for_Environmental_Research	HELMHOLTZ-ZENTRUM FUER UMWELTFORSCHUNG GMBH - UFZ
+71	http://dbpedia.org/resource/Max_Planck_Society	MAX PLANCK GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V.
+476	http://dbpedia.org/resource/Steinbeis_Foundation	STEINBEIS INNOVATION GGMBH
+200	http://dbpedia.org/resource/DESY	STIFTUNG DEUTSCHES ELEKTRONEN-SYNCHROTRON DESY
+222	http://dbpedia.org/resource/Zentrum_f%C3%BCr_Europ%C3%A4ische_Wirtschaftsforschung	ZENTRUM FUER EUROPAEISCHE WIRTSCHAFTSFORSCHUNG GmbH
+180	http://dbpedia.org/resource/Spanish_National_Research_Council	AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+534	http://dbpedia.org/resource/Ikerbasque	BCBL BASQUE CENTER ON COGNITION BRAIN AND LANGUAGE
+401	http://dbpedia.org/resource/Finnish_Meteorological_Institute	ILMATIETEEN LAITOS
+263	http://dbpedia.org/resource/Institut_National_de_la_Recherche_Agronomique	INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE
+401	http://dbpedia.org/resource/Finnish_Environment_Institute	SUOMEN YMPARISTOKESKUS
+348	http://dbpedia.org/resource/VTT_Technical_Research_Centre_of_Finland	TEKNOLOGIAN TUTKIMUSKESKUS VTT
+348	http://dbpedia.org/resource/VTT_Technical_Research_Centre_of_Finland	Teknologian tutkimuskeskus VTT Oy
+348	http://dbpedia.org/resource/National_Institute_for_Health_and_Welfare_(Finland)	TERVEYDEN JA HYVINVOINNIN LAITOS
+139	http://dbpedia.org/resource/CNES	CENTRE NATIONAL D'ETUDES SPATIALES - CNES
+86	http://dbpedia.org/resource/French_National_Centre_for_Scientific_Research	CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+263	http://dbpedia.org/resource/IFREMER	INSTITUT FRANCAIS DE RECHERCHE POUR L'EXPLOITATION DE LA MER
+91	http://dbpedia.org/resource/French_Institute_of_Health_and_Medical_Research	INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)
+171	http://dbpedia.org/resource/National_Institute_for_Research_in_Computer_Science_and_Control	INSTITUT NATIONAL DE RECHERCHE EN INFORMATIQUE ET EN AUTOMATIQUE
+91	http://dbpedia.org/resource/Pasteur_Institute	INSTITUT PASTEUR
+115	http://dbpedia.org/resource/Von_Karman_Institute_for_Fluid_Dynamics_(VKI)	INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES
+157	http://dbpedia.org/resource/Office_National_d'Ã‰tudes_et_de_Recherches_AÃ©rospatiales	OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES
+400	http://dbpedia.org/resource/National_Hellenic_Research_Foundation	ETHNIKO IDRYMA EREVNON
+400	http://dbpedia.org/resource/Foundation_for_Research_%26_Technology_%E2%80%93_Hellas	ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS
+400	http://dbpedia.org/resource/Foundation_for_Research_%26_Technology_%E2%80%93_Hellas	FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS
+400	http://dbpedia.org/resource/National_Centre_of_Scientific_Research_%22Demokritos%22	"NATIONAL CENTER FOR SCIENTIFIC RESEARCH ""DEMOKRITOS"""
+139	http://dbpedia.org/resource/Commissariat_%C3%A0_l%27%C3%A9nergie_atomique_et_aux_%C3%A9nergies_alternatives	COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES
+40	http://dbpedia.org/resource/European_Molecular_Biology_Laboratory	EUROPEAN MOLECULAR BIOLOGY LABORATORY
+40	http://dbpedia.org/resource/CERN	EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH
+200	http://dbpedia.org/resource/ENEA_%28Italy%29	AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE
+193	http://dbpedia.org/resource/Consiglio_Nazionale_delle_Ricerche	CONSIGLIO NAZIONALE DELLE RICERCHE
+200	http://dbpedia.org/resource/Istituto_Italiano_di_Tecnologia	FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA
+200	http://dbpedia.org/resource/ICFO_%E2%80%93_The_Institute_of_Photonic_Sciences	FUNDACIO INSTITUT DE CIENCIES FOTONIQUES
+200	http://dbpedia.org/resource/Istituto_Nazionale_di_Fisica_Nucleare	ISTITUTO NAZIONALE DI FISICA NUCLEARE
+200	http://dbpedia.org/resource/Istituto_Superiore_di_SanitÃ 	ISTITUTO SUPERIORE DI SANITA
+200	http://dbpedia.org/resource/Istituto_Superiore_Mario_Boella	ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE TELECOMUNICAZIONI
+53	http://dbpedia.org/resource/Royal_Netherlands_Academy_of_Arts_and_Sciences	KONINKLIJKE NEDERLANDSE AKADEMIE VAN WETENSCHAPPEN - KNAW
+148	http://dbpedia.org/resource/Netherlands_Organisation_for_Applied_Scientific_Research	NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK - TNO
+317	http://dbpedia.org/resource/Norwegian_Institute_of_Marine_Research	HAVFORSKNINGSINSTITUTTET
+422	http://dbpedia.org/resource/Austrian_Institute_of_Technology	AIT Austrian Institute of Technology GmbH
+422	http://dbpedia.org/resource/Joanneum_Research	JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH
+242	http://dbpedia.org/resource/Austrian_Academy_of_Sciences	OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN
+436	http://dbpedia.org/resource/INESC_Porto	INESC PORTO - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES DO PORTO
+544	http://dbpedia.org/resource/Geological_Survey_of_Slovenia	GEOLOSKI ZAVOD SLOVENIJE
+290	http://dbpedia.org/resource/Research_Institutes_of_Sweden_%28RISE%29	SWEREA IVF AB
+400	http://dbpedia.org/resource/Swiss_Center_for_Electronics_and_Microtechnology	CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT
+534	http://dbpedia.org/resource/Ikerlan	IKERLAN S.COOP.
+544	http://dbpedia.org/resource/JoÅ_ef_Stefan_Institute	INSTITUT JOZEF STEFAN
+476	http://dbpedia.org/resource/OFFIS	OFFIS EV
+317	http://dbpedia.org/resource/Simula_Research_Laboratory	SIMULA RESEARCH LABORATORY AS
+377	http://dbpedia.org/resource/SINTEF	STIFTELSEN SINTEF
+300	http://dbpedia.org/resource/Teagasc	TEAGASC - AGRICULTURE AND FOOD DEVELOPMENT AUTHORITY
+115	http://dbpedia.org/resource/Vlaams_Instituut_voor_Biotechnologie	VIB (vlaams instuut voor biotech)
+
