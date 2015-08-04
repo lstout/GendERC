@@ -1,6 +1,13 @@
 # GendERC
 
-This repository contains all scripts used in the automatic extraction of pdf files in the GendERC project of the academy assitants of the Network Institute in 2014. The project was conducted by Xiaoli Gou and [Luka Stout](github.com/lstout/) under supervision of Peter van den Besselaar. [The projects is found here!](http://www.networkinstitute.org/academy-assistants/academy-projects-14/)
+This repository contains all scripts used in the automatic extraction of pdf files in the GendERC project of the academy assitants of the Network Institute in 2014. The project was conducted by Xiaoli Gou and [Luka Stout](github.com/lstout/) under supervision of [Peter van den Besselaar](http://www.vandenbesselaar.net/). [The project is found here!](http://www.networkinstitute.org/academy-assistants/academy-projects-14/).
+In this project we try to identify possible gender-specific influences on the assessment of the [ERC](http://erc.europa.eu/) Starting Grant. Are the decision criteria in the application process of the Starting Grant gender-biased, and/or are they deployed in a gender biased manner?
+
+We will try to find an answer to these questions by first focussing on a linguistic analysis of evaluation forms to see whether there is a difference in how female applicants are treated compared to how male applicants are treated, and how funded and unfunded applications compare.
+
+For the second part we will try to see whether there is an actual gender bias or whether the problem of this bias lies deeper in the system. This will be done by looking at performance related data. We will use earlier grants in combination with previous institutions as a proxy for performance.
+
+We will also look at the influence of the panel that reviews an applicant on the success chance of applicants.
 
 #### What's what?
 ##### Ranking
